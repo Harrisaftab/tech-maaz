@@ -6,7 +6,7 @@
         </div>
         <div class="sidemenu-profile mb-30 is_show">
             <div class="img">
-                <img src="assets/img/new_home/logo/logo-icon.png" alt="">
+                <img src="public/assets/img/new_home/logo/logo-icon.png" alt="">
             </div>
             <h6 class="name">Haptic Agency</h6>
         </div>
@@ -61,7 +61,7 @@
             <div class="container h1-container">
                 <div class="hpt-header-2-content">
                     <a class="hpt-header-2-logo" href="home-2.html">
-                        <img src="assets/img/new_home/logo/Logo-color-2.png" alt="logo">
+                        <img src="public/assets/img/new_home/logo/Logo-color-2.png" alt="logo">
                     </a>
                     <nav class="hpt-header-2-menu" id="mobile_menu">
                         <ul>

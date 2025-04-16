@@ -27,7 +27,7 @@
 						<div class="bi-about-img-wrapper d-flex">
 							<div class="bi-about-img-area1">
 								<div class="bi-about-img1 position-relative bi-img-animation">
-									<img src="assets/img/about/ab1.jpg" alt="">
+									<img src="public/assets/img/about/ab1.jpg" alt="">
 								</div>
 								<div class="bi-about-img-text-btn">
 									<div class="bi-about-img-text pera-content bins-text">
@@ -42,7 +42,7 @@
 							</div>
 							<div class="bi-about-img-area2">
 								<div class="bi-about-img2 position-relative bi-img-animation">
-									<img src="assets/img/about/ab2.jpg" alt="">
+									<img src="public/assets/img/about/ab2.jpg" alt="">
 								</div>
 							</div>
 						</div>
@@ -144,14 +144,14 @@
 				<div class="row">
 					<div class="col-lg-5">
 						<div class="bi-fun-fact-img bi-img-animation">
-							<img class="image_item_1" src="assets/img/about/fn1.jpg">
-							<img class="image_item_1" src="assets/img/about/fn1.jpg">
+							<img class="image_item_1" src="public/assets/img/about/fn1.jpg">
+							<img class="image_item_1" src="public/assets/img/about/fn1.jpg">
 						</div>
 					</div>
 					<div class="col-lg-7">
 						<div class="bi-fun-fact-img-2 bi-img-animation">
-							<img class="image_item_1" src="assets/img/about/fn2.jpg">
-							<img class="image_item_1" src="assets/img/about/fn2.jpg">
+							<img class="image_item_1" src="public/assets/img/about/fn2.jpg">
+							<img class="image_item_1" src="public/assets/img/about/fn2.jpg">
 						</div>
 					</div>
 				</div>
@@ -243,15 +243,15 @@
 						</div>
 						<div class="bi-portfolio-btn-img-area bi-img-animation">
 							<div class="bi-portfolio-btn-img position-relative">
-								<img src="assets/img/portfolio/pro1.jpg" alt="">
+								<img src="public/assets/img/portfolio/pro1.jpg" alt="">
 							</div>
 						</div>
 						<div class="bi-portfolio-community headline wow fadeInRight"  data-wow-delay="500ms" data-wow-duration="1000ms">
 							<div class="community-img-text ul-li d-flex align-items-center">
 								<ul>
-									<li><img src="assets/img/portfolio/test-1.jpg" alt=""></li>
-									<li><img src="assets/img/portfolio/test-2.jpg" alt=""></li>
-									<li><img src="assets/img/portfolio/test-5.jpg" alt=""></li>
+									<li><img src="public/assets/img/portfolio/test-1.jpg" alt=""></li>
+									<li><img src="public/assets/img/portfolio/test-2.jpg" alt=""></li>
+									<li><img src="public/assets/img/portfolio/test-5.jpg" alt=""></li>
 								</ul>
 								<h3>Joined Our Community
 									<span>150</span><b>k+</b> Creators
@@ -269,7 +269,7 @@
 										<div class="col-md-12">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro2.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro2.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -279,7 +279,7 @@
 										<div class="col-md-6">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro3.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro3.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -289,7 +289,7 @@
 										<div class="col-md-6">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro4.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro4.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -305,7 +305,7 @@
 										<div class="col-md-12">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro2.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro2.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -315,7 +315,7 @@
 										<div class="col-md-6">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro3.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro3.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -325,7 +325,7 @@
 										<div class="col-md-6">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro4.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro4.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -341,7 +341,7 @@
 										<div class="col-md-12">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro2.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro2.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -351,7 +351,7 @@
 										<div class="col-md-6">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro3.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro3.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -361,7 +361,7 @@
 										<div class="col-md-6">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro4.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro4.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -377,7 +377,7 @@
 										<div class="col-md-12">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro2.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro2.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -387,7 +387,7 @@
 										<div class="col-md-6">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro3.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro3.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -397,7 +397,7 @@
 										<div class="col-md-6">
 											<div class="bi-portfolio-item position-relative">
 												<div class="portfolio-img">
-													<img src="assets/img/portfolio/pro4.jpg" alt="">
+													<img src="public/assets/img/portfolio/pro4.jpg" alt="">
 												</div>
 												<div class="portfolio-text headline">
 													<h3><a href="#"><i class="fal fa-link"></i> Customer Value Proposition</a></h3>
@@ -424,37 +424,37 @@
 					<div class="swiper-wrapper">
 						<div class="swiper-slide">
 							<div class="bi-sponsor-item">
-								<img src="assets/img/sponsor/1.png">
+								<img src="public/assets/img/sponsor/1.png">
 							</div>
 						</div>
 						<div class="swiper-slide">
 							<div class="bi-sponsor-item">
-								<img src="assets/img/sponsor/2.png">
+								<img src="public/assets/img/sponsor/2.png">
 							</div>
 						</div>
 						<div class="swiper-slide">
 							<div class="bi-sponsor-item">
-								<img src="assets/img/sponsor/3.png">
+								<img src="public/assets/img/sponsor/3.png">
 							</div>
 						</div>
 						<div class="swiper-slide">
 							<div class="bi-sponsor-item">
-								<img src="assets/img/sponsor/4.png">
+								<img src="public/assets/img/sponsor/4.png">
 							</div>
 						</div>
 						<div class="swiper-slide">
 							<div class="bi-sponsor-item">
-								<img src="assets/img/sponsor/5.png">
+								<img src="public/assets/img/sponsor/5.png">
 							</div>
 						</div>
 						<div class="swiper-slide">
 							<div class="bi-sponsor-item">
-								<img src="assets/img/sponsor/1.png">
+								<img src="public/assets/img/sponsor/1.png">
 							</div>
 						</div>
 						<div class="swiper-slide">
 							<div class="bi-sponsor-item">
-								<img src="assets/img/sponsor/2.png">
+								<img src="public/assets/img/sponsor/2.png">
 							</div>
 						</div>
 					</div>
@@ -487,7 +487,7 @@
 					</div>
 					<div class="col-lg-5">
 						<div class="bi-fun-fact-counter-2 position-relative">
-							<span class="bi-fun-fact-star position-absolute"><img src="assets/img/icon/star2.png" alt=""></span>
+							<span class="bi-fun-fact-star position-absolute"><img src="public/assets/img/icon/star2.png" alt=""></span>
 							<div class="row">
 								<div class="col-md-6">
 									<div class="bi-counter-item-2 headline pera-content">
