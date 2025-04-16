@@ -4,86 +4,140 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title')</title>
-    <!-- CSS Here -->
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ asset('assets/images/favicon/favicon.ico') }}" type="image/x-icon">
-    <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap" rel="stylesheet">
-    <!-- CSS Files -->
-    <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/slick.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/animate_plugin.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/aos.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/media-query.css') }}">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Haptic - Web And Agency HTML Template">
+    <meta name="keywords" content="agency, app, business, company, corporate, designer, freelance, fullpage, modern, office, personal, portfolio, professional, web, web agency">
+    <meta name="author" content="Themexriver">
+    <link rel="shortcut icon" href="assets/img/logo/f-icon.png" type="image/x-icon">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/flaticon_aina.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/global.css">
+    <link rel="stylesheet" href="assets/css/swiper.min.css">
+    <link rel="stylesheet" href="assets/css/meanmenu.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <!-- Preloader Start -->
-    <div class="preloader">
-        <div class="preloader-content">
-            <div class="preloader_img_circle"></div>
-            <div class="preloader_img">
-                <img src="assets/images/preloader/fitness_preimg.gif" alt="fitness_preimg">
+
+    <!-- Header Start -->
+    @include('include.frontend.header')
+    <!-- Header end -->
+    <div id="main">
+        <div id="smooth-content" >
+    
+            @yield('content')
+            <!-- Banner-Slider Start -->
+            
+            <!-- footer Start -->
+            @include('include.frontend.footer')
+            <!-- footer End -->
+        </div>
+    </div>
+
+    <div class="cart_sidebar">
+        <div class="cart_sidebar_top">
+            <h2 class="heading_title">Cart</h2>
+            <button type="button" class="cart_close_btn tx-close"></button>
+        </div>
+        <div class="cart_items_list">
+            <div class="cart_item">
+                <div class="item_image">
+                    <img src="assets/img/new_home/product-img/s_img1.jpg" alt="image_not_found">
+                </div>
+                <div class="item_content headline">
+                    <h4 class="item_title">
+                        Rorem ipsum dolor sit amet.
+                    </h4>
+                    <span class="item_price">$19.00</span>
+                    <button type="button" class="remove_btn"><i class="fal fa-times"></i></button>
+                </div>
+            </div>
+            <div class="cart_item">
+                <div class="item_image">
+                    <img src="assets/img/new_home/product-img/s_img2.jpg" alt="image_not_found">
+                </div>
+                <div class="item_content headline">
+                    <h4 class="item_title">
+                        Rorem ipsum dolor sit amet.
+                    </h4>
+                    <span class="item_price">$22.00</span>
+                    <button type="button" class="remove_btn"><i class="fal fa-times"></i></button>
+                </div>
+            </div>
+            <div class="cart_item">
+                <div class="item_image">
+                    <img src="assets/img/new_home/product-img/s_img3.jpg" alt="image_not_found">
+                </div>
+                <div class="item_content headline">
+                    <h4 class="item_title">
+                        Rorem ipsum dolor sit amet.
+                    </h4>
+                    <span class="item_price">$43.00</span>
+                    <button type="button" class="remove_btn"><i class="fal fa-times"></i></button>
+                </div>
+            </div>
+            <div class="cart_item">
+                <div class="item_image">
+                    <img src="assets/img/new_home/product-img/s_img4.jpg" alt="image_not_found">
+                </div>
+                <div class="item_content headline">
+                    <h4 class="item_title">
+                        Rorem ipsum dolor sit amet.
+                    </h4>
+                    <span class="item_price">$14.00</span>
+                    <button type="button" class="remove_btn"><i class="fal fa-times"></i></button>
+                </div>
+            </div>
+        </div>
+        <div class="cart_sidebar_bottom">
+            <div class="total_price">
+                <span>Sub Total:</span>
+                <span>$87.00</span>
+            </div>
+            <div class="cart_sidebar_button">
+                <a href="#">View Cart</a>
+                <a href="#">Checkout</a>
             </div>
         </div>
     </div>
-    <!-- Preloader end -->
-    <div class="site_content">
-        <!-- Header Start -->
-        @include('include.frontend.header')
-        <!-- Header end -->
-        @yield('content')
-        <!-- Banner-Slider Start -->
-        
-        <!-- footer Start -->
-        @include('include.frontend.footer')
-        <!-- footer End -->
 
-        <!-- Scroll-Top Start -->
-        <div class="scrolltop_area orangeglow">
-            <button id="scroll-top-btn">
-                <span class="scroll-icon">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
-                        <path d="M0 0H24V24H0V0Z" fill="white"/>
-                        </mask>
-                        <g>
-                        <path d="M7 11L12 6L17 11" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path d="M7 17L12 12L17 17" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        </g>
-                    </svg>                        
-                </span>
-                <span id="scroll-percentage"></span>
-            </button>    
+    <div class="scroll-top">
+        <div class="scroll-top-wrap">
+            <i  class="icon-1 fal fa-long-arrow-up"></i>
+            <i class="fal icon-2 fa-spinner fa-pulse"></i>
         </div>
-        <!-- Scroll-Top End --> 
-
-        <!-- custome mouse -->
-        <div class="megic-cursor">
-            <div class="megic-cursor-item"></div>
-        </div>
-
     </div>
-    <!-- JS Here -->
-    <script src="{{ asset('assets/js/jquery-3.7.1.js') }}"></script>
-    <script src="{{ asset('assets/js/myplugin.js') }}"></script>
-    <script src="{{ asset('assets/js/slick.min.js') }}"></script>
-    <script src="{{ asset('assets/js/slick-animation.min.js') }}"></script>
-    <script src="{{ asset('assets/js/aos.js') }}"></script>
-    <script src="{{ asset('assets/js/plugins.js') }}"></script>
-    <script src="{{ asset('assets/js/TweenMax.min.js') }}"></script>
-    <script src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ asset('assets/js/allsliders.js') }}"></script>
-    <script src="{{ asset('assets/js/custome-cursor.js') }}"></script>
-    <script src="{{ asset('assets/js/style.js') }}"></script>
-    <!-- AOS Animation -->
-    <script>
-        AOS.init({
-            duration: 1600,
-        });
-        AOS.init();
-    </script>
+    <!-- JS here -->
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/appear.js"></script>
+    <script src="assets/js/counter.js"></script>
+    <script src="assets/js/gsap.min.js"></script>
+    <script src="assets/js/knob.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/parallax.min.js"></script>
+    <script src="assets/js/ScrollTrigger.min.js"></script>
+    <script src="assets/js/ScrollToPlugin.min.js"></script>
+    <script src="assets/js/ScrollSmoother.min.js"></script>
+    <script src="assets/js/SplitText.min.js"></script>
+    <script src="assets/js/jquery.filterizr.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/hover-revel.js"></script>
+    <script src="assets/js/split-type.min.js"></script>
+    <script src="assets/js/parallax-scroll.js"></script>
+    <script src="assets/js/jquery.marquee.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/jquery.meanmenu.min.js"></script>
+    <script src="assets/js/tilt.jquery.min.js"></script>
+    <script src="assets/js/matter.min.js"></script>
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/home-6.js"></script>
 </body>
 </html>

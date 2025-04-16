@@ -13270,7 +13270,20 @@ CSS INDEX
   left: 0;
   width: 100%;
 }
+.hpt-header-2-menu ul li.active > a {
+  background: var(--linear, linear-gradient(90deg, #B60B0B 0%, #FF3838 100%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 
+.hpt-header-2-menu ul li.active > a::after {
+  opacity: 1;
+  visibility: visible;
+  right: auto;
+  left: 0;
+  width: 100%;
+}
 .sidemenu-area {
   /* Track */
   /* Handle */
