@@ -1,6 +1,6 @@
 @extends('layouts.frontend')
 
-@section('title', 'Home ')
+@section('title', 'Willems-Corporation - Home ')
 
 @section('content')
 

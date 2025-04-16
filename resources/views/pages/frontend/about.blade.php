@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title', 'About Us')
+@section('title', 'Willems-Corporation - About Us')
 @section('content')
 <!-- Start of breadcrumb section
 	============================================= -->

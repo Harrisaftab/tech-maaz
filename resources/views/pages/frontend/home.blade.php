@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title', 'Home ')
+@section('title', 'Willems-Corporation - Home ')
 @section('content')
 <!-- hero-start -->
 <div class="hpt-hero-2-area">
