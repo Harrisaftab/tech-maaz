@@ -19,7 +19,7 @@ class PageController extends Controller
     }
 
     public function blog() {
-        return view('pages.frontend.blog');
+        return view('pages.frontend.blog.index');
     }
 
     public function contact() {
