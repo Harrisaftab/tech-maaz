@@ -3,7 +3,7 @@
 @section('content')
 <!-- Start of breadcrumb section
 	============================================= -->
-	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative" data-background="assets/img/bg/bread-bg.jpg">
+	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative" data-background="public/assets/img/bg/bread-bg.jpg">
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="bi-breadcrumbs-content headline ul-li text-center">
@@ -26,7 +26,7 @@
 				<div class="row justify-content-center">
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-contact-info-item position-relative">
-							<span class="info-bg position-absolute" data-background="assets/img/bg/ci-bg1.png"></span>
+							<span class="info-bg position-absolute" data-background="public/assets/img/bg/ci-bg1.png"></span>
 							<div class="inner-icon d-flex justify-content-center align-items-center">
 								<img src="public/assets/img/icon/ci2.png" alt="">
 							</div>
@@ -39,7 +39,7 @@
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-contact-info-item position-relative">
-							<span class="info-bg position-absolute" data-background="assets/img/bg/ci-bg1.png"></span>
+							<span class="info-bg position-absolute" data-background="public/assets/img/bg/ci-bg1.png"></span>
 							<div class="inner-icon d-flex justify-content-center align-items-center">
 								<img src="public/assets/img/icon/ci1.png" alt="">
 							</div>
@@ -52,7 +52,7 @@
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-contact-info-item position-relative">
-							<span class="info-bg position-absolute" data-background="assets/img/bg/ci-bg1.png"></span>
+							<span class="info-bg position-absolute" data-background="public/assets/img/bg/ci-bg1.png"></span>
 							<div class="inner-icon d-flex justify-content-center align-items-center">
 								<img src="public/assets/img/icon/ci3.png" alt="">
 							</div>

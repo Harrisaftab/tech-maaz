@@ -1,9 +1,9 @@
 <!-- Start of Footer  section
 	============================================= -->
-	<footer id="bi-footer" class="bi-footer-section" data-background="assets/img/bg/footer-bg.jpg">
+	<footer id="bi-footer" class="bi-footer-section" data-background="public/assets/img/bg/footer-bg.jpg">
 		<div class="bi-footer-cta position-relative">
 			<div class="container">
-				<div class="bi-footer-cta-content headline d-flex align-items-center  justify-content-between flex-wrap" data-background="assets/img/bg/cta-bg.jpg">
+				<div class="bi-footer-cta-content headline d-flex align-items-center  justify-content-between flex-wrap" data-background="public/assets/img/bg/cta-bg.jpg">
 					<div class="bi-footer-cta-text"> 
 						<h3>Looking for a
 						Design Parner?</h3>

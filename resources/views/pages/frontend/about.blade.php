@@ -3,7 +3,7 @@
 @section('content')
 <!-- Start of breadcrumb section
 	============================================= -->
-	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative" data-background="assets/img/bg/bread-bg.jpg">
+	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative" data-background="public/assets/img/bg/bread-bg.jpg">
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="bi-breadcrumbs-content headline ul-li text-center">
@@ -19,7 +19,7 @@
 	============================================= -->
 <!-- Start of About  section
 	============================================= -->
-	<section id="bi-about" class="bi-about-section" data-background="assets/img/bg/about-bg.png">
+	<section id="bi-about" class="bi-about-section" data-background="public/assets/img/bg/about-bg.png">
 		<div class="container">
 			<div class="bi-about-content position-relative">
 				<div class="row">

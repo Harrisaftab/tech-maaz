@@ -641,7 +641,7 @@
 </section>
 <!-- choose-end -->
 <!-- testimonial-2-start -->
-<section id="hpt-testimonial-4" class="hpt-testimonial-section-4 bg-default pb-130" data-background="assets/img/new_home/testimonial/testimonial-2-bg-img.png">
+<section id="hpt-testimonial-4" class="hpt-testimonial-section-4 bg-default pb-130" data-background="public/assets/img/new_home/testimonial/testimonial-2-bg-img.png">
     <div class="container h1-container">
         <div class="hpt-testimonial-slider-4">
             <div class="hpt-testimonial-slider-nav-4 testimonial-2 position-relative swiper-container">
@@ -1239,7 +1239,7 @@
 <!-- blog-end -->          
 <div class="hpt-cta-3-area">
     <div class="container h1-container">
-        <div class="hpt-cta-3-wrap bg-default" data-background="assets/img/new_home/cta/cta-3-bg-img-1.png"  >
+        <div class="hpt-cta-3-wrap bg-default" data-background="public/assets/img/new_home/cta/cta-3-bg-img-1.png"  >
             <div class="hpt-cta-3-content">
                 <h4 class="tittle reveal-type">Looking for a Design Parner?</h4>
                 <div class="btn-wrap">

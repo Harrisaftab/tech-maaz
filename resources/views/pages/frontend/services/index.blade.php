@@ -3,7 +3,7 @@
 @section('content')
 <!-- Start of breadcrumb section
 	============================================= -->
-	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative" data-background="assets/img/bg/bread-bg.jpg">
+	<section id="bi-breadcrumbs" class="bi-bredcrumbs-section position-relative" data-background="public//assets/img/bg/bread-bg.jpg">
 		<div class="background_overlay"></div>
 		<div class="container">
 			<div class="bi-breadcrumbs-content headline ul-li text-center">
@@ -34,7 +34,7 @@
 				<div class="row justify-content-center ">
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-service-feed-item position-relative" >
-							<span class="hover_img position-absolute" data-background="assets/img/service/ser1.jpg"></span>
+							<span class="hover_img position-absolute" data-background="public//assets/img/service/ser1.jpg"></span>
 							<span class="serial-number position-absolute">01</span>
 							<div class="service-icon position-relative">
 								<i class="flaticon-brand"></i>
@@ -48,7 +48,7 @@
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-service-feed-item position-relative" >
-							<span class="hover_img position-absolute" data-background="assets/img/service/ser2.jpg"></span>
+							<span class="hover_img position-absolute" data-background="public//assets/img/service/ser2.jpg"></span>
 							<span class="serial-number position-absolute">02</span>
 							<div class="service-icon position-relative">
 								<i class="flaticon-laptop"></i>
@@ -62,7 +62,7 @@
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-service-feed-item position-relative" >
-							<span class="hover_img position-absolute" data-background="assets/img/service/ser3.jpg"></span>
+							<span class="hover_img position-absolute" data-background="public//assets/img/service/ser3.jpg"></span>
 							<span class="serial-number position-absolute">03</span>
 							<div class="service-icon position-relative">
 								<i class="flaticon-coding"></i>
@@ -76,7 +76,7 @@
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-service-feed-item position-relative" >
-							<span class="hover_img position-absolute" data-background="assets/img/service/ser4.jpg"></span>
+							<span class="hover_img position-absolute" data-background="public//assets/img/service/ser4.jpg"></span>
 							<span class="serial-number position-absolute">04</span>
 							<div class="service-icon position-relative">
 								<i class="flaticon-4k"></i>
@@ -90,7 +90,7 @@
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-service-feed-item position-relative" >
-							<span class="hover_img position-absolute" data-background="assets/img/service/ser5.jpg"></span>
+							<span class="hover_img position-absolute" data-background="public//assets/img/service/ser5.jpg"></span>
 							<span class="serial-number position-absolute">05</span>
 							<div class="service-icon position-relative">
 								<i class="flaticon-surf"></i>
@@ -104,7 +104,7 @@
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-service-feed-item position-relative" >
-							<span class="hover_img position-absolute" data-background="assets/img/service/ser6.jpg"></span>
+							<span class="hover_img position-absolute" data-background="public//assets/img/service/ser6.jpg"></span>
 							<span class="serial-number position-absolute">06</span>
 							<div class="service-icon position-relative">
 								<i class="flaticon-design-thinking"></i>
