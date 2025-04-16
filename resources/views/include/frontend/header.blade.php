@@ -60,7 +60,7 @@
         <div class="hpt-header-2-wrap">
             <div class="container h1-container">
                 <div class="hpt-header-2-content">
-                    <a class="hpt-header-2-logo" href="home-2.html">
+                    <a class="hpt-header-2-logo" href="{{ route('home') }}">
                         <img src="public/assets/img/new_home/logo/Logo-color-2.png" alt="logo">
                     </a>
                     <nav class="hpt-header-2-menu" id="mobile_menu">
