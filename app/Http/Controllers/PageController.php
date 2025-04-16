@@ -15,7 +15,7 @@ class PageController extends Controller
     }
 
     public function services() {
-        return view('pages.frontend.service.index');
+        return view('pages.frontend.services');
     }
 
     public function blog() {
