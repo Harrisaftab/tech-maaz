@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title')</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="Haptic - Web And Agency HTML Template">
+    <meta name="description" content="Willems-Corporation - yWeb And App Agency">
     <meta name="keywords" content="agency, app, business, company, corporate, designer, freelance, fullpage, modern, office, personal, portfolio, professional, web, web agency">
     <meta name="author" content="Themexriver">
     <link rel="shortcut icon" href="public/assets/img/logo/f-icon.png" type="image/x-icon">
