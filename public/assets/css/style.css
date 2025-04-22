@@ -16633,11 +16633,10 @@ CSS INDEX
      object-fit: cover;
 }
 .hpt-about-2-feature {
-  /* display: -ms-grid;
+  display: -ms-grid;
   display: grid;
   -ms-grid-columns: 1fr 25px 1fr;
-  grid-template-columns: 1fr 1fr; */
-  display: flex;
+  grid-template-columns: 1fr 1fr;
   gap: 25px;
 }
 @media (max-width: 767px) {

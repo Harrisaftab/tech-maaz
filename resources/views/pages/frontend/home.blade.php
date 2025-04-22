@@ -225,7 +225,7 @@
                     </div>
 
                     <!-- about-feature -->
-                    <div class="hpt-about-2-feature mb-50">
+                    <div class="hpt-about-2-feature mb-50 d-flex">
                         <div class="hpt-about-2-feature-item wow fadeIn" >
                             <img src="public/assets/img/new_home/about/about-2-icon-3.png" alt="" class="icon-2">
                             <div class="icon-wrap">
