@@ -702,9 +702,10 @@
                     <!-- single-item -->
                     <div class="swiper-slide">
                         <div class="hpt-testimonial-item-4 text-center headline pera-content">
+
                             <div class="testimonial-author">
-                                <h3 class="text-uppercase">Jessica R.</h3>
-                                <span>Austin, TX</span>
+                                <h3 class="text-uppercase">Esther Howard</h3>
+                                <span>Web Development</span>
                             </div>
                             <div class="testimonial-desc-rate">
                                 <div class="quote-icon-1">
@@ -713,17 +714,27 @@
                                 <div class="quote-icon-2">
                                     <img src="public/assets/img/new_home/icon/t-quote-icon-right.png" alt="">
                                 </div>
-                                <p class="reveal-type-2">“Smooth and Fast!” I had to ship my car from Texas to California for a job move, and State to State Auto Transport made it incredibly easy. My car arrived two days early and in perfect condition. Highly recommend their service!</p>
+                                <p class="reveal-type-2" >“Lorem ipsum dolor sit amet consectetur. Vitae tortor purus elementum pellentesque in. Faucibus faucibus eget tempus non. Nisi est gravida molestie rhoncus. Vitae rutrum praesent enim a ante nunc enim. Malesuada dictumst sed enim diam. Metus fusce faucibus etiam molestie dui porttitor. Pretium quam sit aliquam id nam
+                                senectus malesuada tempus.”</p>
+                                <div class="testimonial-rate ul-li">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
-
                     <!-- single-item -->
                     <div class="swiper-slide">
                         <div class="hpt-testimonial-item-4 text-center headline pera-content">
+
                             <div class="testimonial-author">
-                                <h3 class="text-uppercase">Marcus D.</h3>
-                                <span>Newark, NJ</span>
+                                <h3 class="text-uppercase">Esther Howard</h3>
+                                <span>Web Development</span>
                             </div>
                             <div class="testimonial-desc-rate">
                                 <div class="quote-icon-1">
@@ -732,17 +743,27 @@
                                 <div class="quote-icon-2">
                                     <img src="public/assets/img/new_home/icon/t-quote-icon-right.png" alt="">
                                 </div>
-                                <p class="reveal-type-2">“Professional and Reliable” Great communication from start to finish. The driver was friendly and even called ahead with an ETA. I was nervous at first, but they made it a stress-free experience. Would use again!</p>
+                                <p class="reveal-type-2" >“Lorem ipsum dolor sit amet consectetur. Vitae tortor purus elementum pellentesque in. Faucibus faucibus eget tempus non. Nisi est gravida molestie rhoncus. Vitae rutrum praesent enim a ante nunc enim. Malesuada dictumst sed enim diam. Metus fusce faucibus etiam molestie dui porttitor. Pretium quam sit aliquam id nam
+                                senectus malesuada tempus.”</p>
+                                <div class="testimonial-rate ul-li">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
-
                     <!-- single-item -->
                     <div class="swiper-slide">
                         <div class="hpt-testimonial-item-4 text-center headline pera-content">
+
                             <div class="testimonial-author">
-                                <h3 class="text-uppercase">Priya M.</h3>
-                                <span>Chicago, IL</span>
+                                <h3 class="text-uppercase">Esther Howard</h3>
+                                <span>Web Development</span>
                             </div>
                             <div class="testimonial-desc-rate">
                                 <div class="quote-icon-1">
@@ -751,17 +772,27 @@
                                 <div class="quote-icon-2">
                                     <img src="public/assets/img/new_home/icon/t-quote-icon-right.png" alt="">
                                 </div>
-                                <p class="reveal-type-2">“Exceptional Service” I’ve shipped cars before, but this was by far the smoothest process. The team at State to State was super responsive, and the pricing was very fair. My SUV was delivered right on time.</p>
+                                <p class="reveal-type-2" >“Lorem ipsum dolor sit amet consectetur. Vitae tortor purus elementum pellentesque in. Faucibus faucibus eget tempus non. Nisi est gravida molestie rhoncus. Vitae rutrum praesent enim a ante nunc enim. Malesuada dictumst sed enim diam. Metus fusce faucibus etiam molestie dui porttitor. Pretium quam sit aliquam id nam
+                                senectus malesuada tempus.”</p>
+                                <div class="testimonial-rate ul-li">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
-
                     <!-- single-item -->
                     <div class="swiper-slide">
                         <div class="hpt-testimonial-item-4 text-center headline pera-content">
+
                             <div class="testimonial-author">
-                                <h3 class="text-uppercase">Tom B.</h3>
-                                <span>Scottsdale, AZ</span>
+                                <h3 class="text-uppercase">Esther Howard</h3>
+                                <span>Web Development</span>
                             </div>
                             <div class="testimonial-desc-rate">
                                 <div class="quote-icon-1">
@@ -770,17 +801,27 @@
                                 <div class="quote-icon-2">
                                     <img src="public/assets/img/new_home/icon/t-quote-icon-right.png" alt="">
                                 </div>
-                                <p class="reveal-type-2">“Safe Transport for My Classic Car” I needed enclosed transport for my vintage Mustang, and they delivered — literally. Top-notch care, great tracking, and total peace of mind. Five stars all the way.</p>
+                                <p class="reveal-type-2" >“Lorem ipsum dolor sit amet consectetur. Vitae tortor purus elementum pellentesque in. Faucibus faucibus eget tempus non. Nisi est gravida molestie rhoncus. Vitae rutrum praesent enim a ante nunc enim. Malesuada dictumst sed enim diam. Metus fusce faucibus etiam molestie dui porttitor. Pretium quam sit aliquam id nam
+                                senectus malesuada tempus.”</p>
+                                <div class="testimonial-rate ul-li">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
-
                     <!-- single-item -->
                     <div class="swiper-slide">
                         <div class="hpt-testimonial-item-4 text-center headline pera-content">
+
                             <div class="testimonial-author">
-                                <h3 class="text-uppercase">Hannah L.</h3>
-                                <span>Orlando, FL</span>
+                                <h3 class="text-uppercase">Esther Howard</h3>
+                                <span>Web Development</span>
                             </div>
                             <div class="testimonial-desc-rate">
                                 <div class="quote-icon-1">
@@ -789,17 +830,27 @@
                                 <div class="quote-icon-2">
                                     <img src="public/assets/img/new_home/icon/t-quote-icon-right.png" alt="">
                                 </div>
-                                <p class="reveal-type-2">“Very Easy Process” Booking was simple, and they walked me through every step. I appreciated the real-time updates and quick delivery from Florida to Ohio. Will definitely use them again!</p>
+                                <p class="reveal-type-2" >“Lorem ipsum dolor sit amet consectetur. Vitae tortor purus elementum pellentesque in. Faucibus faucibus eget tempus non. Nisi est gravida molestie rhoncus. Vitae rutrum praesent enim a ante nunc enim. Malesuada dictumst sed enim diam. Metus fusce faucibus etiam molestie dui porttitor. Pretium quam sit aliquam id nam
+                                senectus malesuada tempus.”</p>
+                                <div class="testimonial-rate ul-li">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
-
                     <!-- single-item -->
                     <div class="swiper-slide">
                         <div class="hpt-testimonial-item-4 text-center headline pera-content">
+
                             <div class="testimonial-author">
-                                <h3 class="text-uppercase">Eric W.</h3>
-                                <span>Denver, CO</span>
+                                <h3 class="text-uppercase">Esther Howard</h3>
+                                <span>Web Development</span>
                             </div>
                             <div class="testimonial-desc-rate">
                                 <div class="quote-icon-1">
@@ -808,7 +859,17 @@
                                 <div class="quote-icon-2">
                                     <img src="public/assets/img/new_home/icon/t-quote-icon-right.png" alt="">
                                 </div>
-                                <p class="reveal-type-2">“Fast Quote, Even Faster Delivery” I needed last-minute transport for my son’s car to his college campus, and State to State Auto Transport came through big time. Super efficient and very professional!</p>
+                                <p class="reveal-type-2" >“Lorem ipsum dolor sit amet consectetur. Vitae tortor purus elementum pellentesque in. Faucibus faucibus eget tempus non. Nisi est gravida molestie rhoncus. Vitae rutrum praesent enim a ante nunc enim. Malesuada dictumst sed enim diam. Metus fusce faucibus etiam molestie dui porttitor. Pretium quam sit aliquam id nam
+                                senectus malesuada tempus.”</p>
+                                <div class="testimonial-rate ul-li">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
