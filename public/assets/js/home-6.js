@@ -204,54 +204,58 @@ $(window).scroll(function() {
 
 
 // -------------------------------- hero-slider-1-start -----------------------------
-	function sliderActive_hero3() {
+function sliderActive_hero3() {
+	if (jQuery(".hero_2_slider_active").length > 0) {
+		let sliderActive1 = '.hero_2_slider_active';
+		let sliderInit1 = new Swiper(sliderActive1, {
+			slidesPerView: 1,
+			paginationClickable: true,
+			loop: true,
+			effect: "fade",
+			autoplay: {
+				delay: 5000, // 5000ms = 5 seconds
+				disableOnInteraction: false,
+			},
+			pagination: {
+				el: ".horo-2-pagination",
+				clickable: true,
+			},
+		});
 
-		if (jQuery(".hero_2_slider_active").length > 0) {
-			let sliderActive1 = '.hero_2_slider_active';
-			let sliderInit1 = new Swiper(sliderActive1, {
-				slidesPerView: 1,
-				paginationClickable: true,
-				loop: true,
-				effect: "fade",
-				pagination: {
-					el: ".horo-2-pagination",
-					clickable: true,
-				},
+		function animated_swiper(selector, init) {
+			let animated = function animated() {
+				$(selector + ' [data-animation]').each(function () {
+					let anim = $(this).data('animation');
+					let delay = $(this).data('delay');
+					let duration = $(this).data('duration');
 
-			});
-
-			function animated_swiper(selector, init) {
-				let animated = function animated() {
-					$(selector + ' [data-animation]').each(function () {
-						let anim = $(this).data('animation');
-						let delay = $(this).data('delay');
-						let duration = $(this).data('duration');
-
-						$(this).removeClass('anim' + anim)
-						.addClass(anim + ' animated')
-						.css({
-							webkitAnimationDelay: delay,
-							animationDelay: delay,
-							webkitAnimationDuration: duration,
-							animationDuration: duration
-						})
-						.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function () {
-							$(this).removeClass(anim + ' animated');
-						});
+					$(this).removeClass('anim' + anim)
+					.addClass(anim + ' animated')
+					.css({
+						webkitAnimationDelay: delay,
+						animationDelay: delay,
+						webkitAnimationDuration: duration,
+						animationDuration: duration
+					})
+					.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function () {
+						$(this).removeClass(anim + ' animated');
 					});
-				};
-				animated();
-			// Make animated when slide change
-				init.on('slideChange', function () {
-					$(sliderActive1 + ' [data-animation]').removeClass('animated');
 				});
-				init.on('slideChange', animated);
-			}
+			};
+			animated();
+			// Make animated when slide change
+			init.on('slideChange', function () {
+				$(sliderActive1 + ' [data-animation]').removeClass('animated');
+			});
+			init.on('slideChange', animated);
+		}
 
-			animated_swiper(sliderActive1, sliderInit1);
-		}}
+		animated_swiper(sliderActive1, sliderInit1);
+	}
+}
 
-		sliderActive_hero3();
+sliderActive_hero3();
+
 // -------------------------------- hero-slider-1-end -----------------------------
 
 // ----------------------------- video-popup start ---------------------------------------
