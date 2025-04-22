@@ -533,23 +533,23 @@
     <div class="hpt-marquee-2-wrap">
         <div class="hpt-marquee-2-content-1-bg">
             <div class="hpt-marquee-2-content-1">
-                <div class="hpt-marquee-2-content-1-item">
-                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Gesto agency</h5>
-                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">UI/Ux design</h5>
-                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">web development</h5>
-                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">mobile application design</h5>
-                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Product design</h5>
+                <div class="hpt-marquee-2-content-1-item">                              
+                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Car Transport</h5>
+                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Motorcycle Transport</h5>
+                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">ATV/UTV Transport</h5>
+                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Golf Cart Transport</h5>
+                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Heavy Equipment Transport</h5>
                 </div>
             </div>
         </div>
         <div class="hpt-marquee-2-content-2-bg">
             <div class="hpt-marquee-2-content-2">
                 <div class="hpt-marquee-2-content-2-item">
-                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Gesto agency</h5>
-                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">UI/Ux design</h5>
-                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">web development</h5>
-                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">mobile application design</h5>
-                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Product design</h5>
+                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Car Transport</h5>
+                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Motorcycle Transport</h5>
+                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">ATV/UTV Transport</h5>
+                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Golf Cart Transport</h5>
+                    <h5 class="text" ><img class="icon" src="public/assets/img/new_home/icon/marquee-1-icon-1.png" alt="">Heavy Equipment Transport</h5>
                 </div>
             </div>
         </div>
@@ -586,8 +586,8 @@
                         <img src="public/assets/img/new_home/icon/subtitle-2-icon-2.png" alt="" class="icon-2">
                         <h6 class="hero-2-subtitle">why choose us</h6>
                     </div>
-                    <h2 class="scetion-title-2 reveal-type ">Better Design for Your Digital Products</h2>
-                    <p class="section-pera-2 ">In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl temp lobortis. Nunc in nisi sapien. Suspendisse finibus dolo et phar etra porta. Sed quam elit, lacinia vitae mi quis</p>
+                    <h2 class="scetion-title-2 reveal-type ">Reliable auto transport for your peace of mind</h2>
+                    <p class="section-pera-2 ">We understand how important your vehicle is. That’s why our team goes the extra mile to ensure safe, timely, and hassle-free delivery—wherever you need it.</p>
                 </div>
 
 
@@ -599,25 +599,33 @@
                             <img src="public/assets/img/new_home/choose/choose-2-icon-1.png" alt="">
                         </div>
                         <div class="content">
-                            <h4 class="title">Search Engine Optimization</h4>
-                            <p class="text">In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl temp lobortis. Nunc in nisi sapien.</p>
+                            <h4 class="title">Fast & Secure Vehicle Shipping</h4>
+                            <p class="text">Your car is transported quickly and safely, using top-rated carriers across the country.</p>
                         </div>
                     </div>
-
+                    <div class="hpt-choose-2-feature-item mb-15 wow fadeInRight">
+                        <div class="icon">
+                            <img src="public/assets/img/new_home/choose/choose-2-icon-1.png" alt="">
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Fully Insured for Your Protection</h4>
+                            <p class="text">Every shipment is covered with comprehensive insurance—your vehicle is in good hands.</p>
+                        </div>
+                    </div>
                     <!-- single item -->
                     <div class="hpt-choose-2-feature-item wow fadeInRight">
                         <div class="icon">
                             <img src="public/assets/img/new_home/choose/choose-2-icon-2.png" alt="">
                         </div>
                         <div class="content">
-                            <h4 class="title">Carefully Crafted</h4>
-                            <p class="text">In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl temp lobortis. Nunc in nisi sapien.</p>
+                            <h4 class="title">Real-Time Tracking & Updates</h4>
+                            <p class="text">Stay in the loop with live tracking and proactive updates throughout the journey.</p>
                         </div>
                     </div>
 
                 </div>
 
-                <div class="hpt-choose-2-btn-wrap wow fadeInUp">
+                {{-- <div class="hpt-choose-2-btn-wrap wow fadeInUp">
                     <a class="hpt-btn-3">
                         learn more
                         <span class="icon"><i class="fal fa-chevron-double-right"></i></span>
@@ -633,7 +641,7 @@
                         </div>
                     </div>
 
-                </div>
+                </div> --}}
 
 
             </div>
