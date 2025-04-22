@@ -3,7 +3,6 @@
 @section('content')
 <!-- hero-start -->
 <div class="hpt-hero-2-area">
-
     <div class="swiper hpt-hero-2-slider-wrapper">
         <div class="swiper-container hero_2_slider_active">
             <div class="swiper-wrapper">
@@ -173,17 +172,13 @@
             </div>
         </div>
     </div>
-
     <div class="horo-2-pagination">
-
     </div>
-
     <div class="hero-2-back-to-top-btn-postion">
         <a class="hero-2-back-top-btn" href="#">
             <img src="public/assets/img/new_home/icon/back-to-top-icon.png" alt="">
         </a>
     </div>
-
     <div class="hpt-hero-2-social-postion">
         <ul class="hpt-hero-2-social">
             <li class="text">SOCIAL MEDIA</li>
@@ -201,7 +196,6 @@
             </li>
         </ul>
     </div>
-
 </div>
 <!-- hero-end -->
 <!-- about-start -->
