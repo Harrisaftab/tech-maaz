@@ -451,7 +451,7 @@
                 <img src="public/assets/img/new_home/icon/subtitle-2-icon-2.png" alt="" class="icon-2">
                 <h6 class="hero-2-subtitle">our services</h6>
             </div>
-            <h2 class="scetion-title-2 reveal-type">Unlock Revenue Grow for <br>You Business</h2>
+            <h2 class="scetion-title-2 reveal-type">Accelerate your success with trusted <br>auto transport services</h2>
         </div>
 
         <div class="hpt-service-2-content-wrap">
@@ -462,23 +462,21 @@
                 <!-- menu -->
                 <div class=" hpt-service-2-tabs-menu nav nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 
-                    <button class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Branding &
-                        Illustration Design 
+                    <button class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">
+                        Open & Enclosed Car Shipping
                         <img src="public/assets/img/new_home/icon/style-arrow-right.png" alt="" class="icon">
                     </button>
 
-                    <button class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">UI/UX Design From
-                        Professionals
+                    <button class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">
+                        Door-to-Door Delivery
                         <img src="public/assets/img/new_home/icon/style-arrow-right.png" alt="" class="icon">
                     </button>
 
-                    <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Product & 3D
-                        Animation Design
+                    <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Expedited Auto Transport
                         <img src="public/assets/img/new_home/icon/style-arrow-right.png" alt="" class="icon">
                     </button>
 
-                    <button class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Web & Mobile
-                        Developments
+                    <button class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Motorcycle & Exotic Car Shipping 
                         <img src="public/assets/img/new_home/icon/style-arrow-right.png" alt="" class="icon">
                     </button>
 
@@ -509,12 +507,12 @@
                 <div class="icon mb-20">
                     <img src="public/assets/img/new_home/service/service-2-icon-1.png" alt="">
                 </div>
-                <p class="text mb-30 reveal-type-2">In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl temp lobortis. Nunc in nisi sapien. Suspendisse finibus dolo et phar etra por. Sed quam elit, lacinia vitae mi quis</p>
+                <p class="text mb-30 reveal-type-2">We deliver your vehicle safely, on time, and with full transparency. From everyday cars to luxury vehicles, our process is designed to be simple and stress-free.</p>
                 <ul class="service-feature mb-55">
-                    <li class="wow fadeInRight" ><img src="public/assets/img/new_home/service/check-icon.png" alt="" class="icon"> Suspendisse finibus dolor</li>
-                    <li class="wow fadeInRight" ><img src="public/assets/img/new_home/service/check-icon.png" alt="" class="icon"> Sed quam elit, lacinia</li>
-                    <li class="wow fadeInRight"><img src="public/assets/img/new_home/service/check-icon.png" alt="" class="icon"> Ullamcorper imperdiet</li>
-                    <li class="wow fadeInRight"><img src="public/assets/img/new_home/service/check-icon.png" alt="" class="icon"> Ut imper turpis nulla</li>
+                    <li class="wow fadeInRight" ><img src="public/assets/img/new_home/service/check-icon.png" alt="" class="icon"> Nationwide Door-to-Door Delivery</li>
+                    <li class="wow fadeInRight" ><img src="public/assets/img/new_home/service/check-icon.png" alt="" class="icon"> Fully Insured Shipments</li>
+                    <li class="wow fadeInRight"><img src="public/assets/img/new_home/service/check-icon.png" alt="" class="icon"> Real-Time Shipment Tracking</li>
+                    <li class="wow fadeInRight"><img src="public/assets/img/new_home/service/check-icon.png" alt="" class="icon"> Experienced & Vetted Drivers</li>
                 </ul>
 
                 <div class="btn-wrap wow fadeInRight">
