@@ -76,8 +76,7 @@
                                     <img src="public/assets/img/new_home/icon/subtitle-2-icon-2.png" alt="" class="icon-2">
                                     <h6 class="hero-2-subtitle">WELCOME TO WORLD OF LOGISTICS</h6>
                                 </div>
-                                <h1 class="hero-2-title" data-animation="fadeInUp" data-duration="1s" data-delay=".5s" >Coast-to-Coast Auto Shipping
-                                    Safe. Secure. Nationwide.</h1>
+                                <h1 class="hero-2-title" data-animation="fadeInUp" data-duration="1s" data-delay=".5s" >Coast-to-Coast Auto Shipping.</h1>
                                 <p class="hero-2-pera" data-animation="fadeInUp" data-duration="1s" data-delay=".8s">From sunny California to bustling New York City, we specialize in door-to-door car transport services across the U.S. Whether it’s a sedan, SUV, classic car, or motorcycle — we’ve got the experience and carrier network to deliver with confidence.</p>
 
                                 <!-- hero-btn -->
@@ -130,7 +129,7 @@
                                     <img src="public/assets/img/new_home/icon/subtitle-2-icon-2.png" alt="" class="icon-2">
                                     <h6 class="hero-2-subtitle">WELCOME TO WORLD OF LOGISTICS</h6>
                                 </div>
-                                <h1 class="hero-2-title" data-animation="fadeInUp" data-duration="1s" data-delay=".5s">Stress-Free Vehicle Shipping — Every Step of the Way</h1>
+                                <h1 class="hero-2-title" data-animation="fadeInUp" data-duration="1s" data-delay=".5s">Stress-Free Vehicle Shipping.</h1>
                                 <p class="hero-2-pera"  data-animation="fadeInUp" data-duration="1s" data-delay=".8s">We’re not just moving cars, we’re moving peace of mind. Our expert logistics team ensures smooth scheduling, proactive updates, and reliable transport you can trust.</p>
 
                                 <!-- hero-btn -->
