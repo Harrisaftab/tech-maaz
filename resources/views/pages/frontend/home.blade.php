@@ -959,24 +959,23 @@
                             <h6 class="hero-2-subtitle">FAQS</h6>
                         </div> 
                         <h2 class="scetion-title-2 reveal-type">You Are Confused! Question & Answers.</h2>
-                        <p class="section-pera-2 reveal-type-2">In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauri in nisl tempus lobortis. Nunc in nisi sapien.</p>
+                        <p class="section-pera-2 reveal-type-2">Have questions? We’ve got answers to help you ship with confidence.</p>
                     </div>
 
                     <!-- faq -->
                     <div class="accordion hpt-faq-1-item-wrap " id="accordionExample_31">
-
                         <!-- single-team -->
                         <div class="accordion-item faq_bg" >
                             <h2 class="accordion-header" id="heading10">
                                 <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="true" aria-controls="collapse10">
-                                    <span class="text" >What Is Agency?</span>
+                                    <span class="text" >How long does auto transport take?</span>
                                     <span class="icon"><i class="far fa-plus"></i></span>
                                 </button>
                             </h2>
                             <div id="collapse10" class="accordion-collapse collapse show" aria-labelledby="heading10" data-bs-parent="#accordionExample_31">
                                 <div class="accordion-body ">
                                     <div class="faq-text">
-                                        Lorem ipsum dolor sit amet consectetur. Vel velit tincidunt adipiscing mauri tincidunt nunc et. Tincidunt lectus massa gravida sit placerat. Fermentum morbi viverra accumsan vitae.
+                                        Transit time depends on the distance and route. On average, coast-to-coast shipments take 7–10 days, while shorter routes may take 2–5 days.
                                     </div>
                                 </div>
                             </div>
@@ -987,14 +986,14 @@
                         <div class="accordion-item" >
                             <h2 class="accordion-header" id="heading12">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                    <span class="text" >Habitant morbi tristique senectus ?</span>
+                                    <span class="text" >Is my vehicle insured during transport?</span>
                                     <span class="icon"><i class="far fa-plus"></i></span>
                                 </button>
                             </h2>
                             <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12" data-bs-parent="#accordionExample_31">
                                 <div class="accordion-body ">
                                     <div class="faq-text">
-                                        Lorem ipsum dolor sit amet consectetur. Vel velit tincidunt adipiscing mauri tincidunt nunc et. Tincidunt lectus massa gravida sit placerat. Fermentum morbi viverra accumsan vitae.
+                                        Yes! Every shipment is fully insured at no extra cost, so your vehicle is protected from pickup to delivery.
                                     </div>
                                 </div>
                             </div>
@@ -1005,14 +1004,14 @@
                         <div class="accordion-item" >
                             <h2 class="accordion-header" id="heading15">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                                    <span class="text" >Nulla vitae est risus. Aenean aliquam dolor a massa? </span>
+                                    <span class="text" >Can I ship personal items in my car?</span>
                                     <span class="icon"><i class="far fa-plus"></i></span>
                                 </button>
                             </h2>
                             <div id="collapse15" class="accordion-collapse collapse" aria-labelledby="heading15" data-bs-parent="#accordionExample_31">
                                 <div class="accordion-body ">
                                     <div class="faq-text">
-                                        Lorem ipsum dolor sit amet consectetur. Vel velit tincidunt adipiscing mauri tincidunt nunc et. Tincidunt lectus massa gravida sit placerat. Fermentum morbi viverra accumsan vitae.
+                                        Most carriers allow up to 100 lbs of personal belongings in the trunk, but it’s best to confirm beforehand to avoid delays or extra fees.
                                     </div>
                                 </div>
                             </div>
@@ -1023,15 +1022,14 @@
                         <div class="accordion-item " >
                             <h2 class="accordion-header" id="heading13">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                    <span class="text" >Pellentesque habitant morbi 
-                                    tristique senectus ?</span>
+                                    <span class="text" >What’s the difference between open and enclosed transport?</span>
                                     <span class="icon"><i class="far fa-plus"></i></span>
                                 </button>
                             </h2>
                             <div id="collapse13" class="accordion-collapse collapse" aria-labelledby="heading13" data-bs-parent="#accordionExample_31">
                                 <div class="accordion-body ">
                                     <div class="faq-text">
-                                        Lorem ipsum dolor sit amet consectetur. Vel velit tincidunt adipiscing mauri tincidunt nunc et. Tincidunt lectus massa gravida sit placerat. Fermentum morbi viverra accumsan vitae.
+                                        Open transport is more affordable and commonly used. Enclosed transport offers extra protection and is ideal for luxury, classic, or high-value vehicles.
                                     </div>
                                 </div>
                             </div>
