@@ -217,10 +217,11 @@
                         <div class="section-subtitle-2-wrap">
                             <img src="public/assets/img/new_home/icon/subtitle-2-icon-1.png" alt="" class="icon-1">
                             <img src="public/assets/img/new_home/icon/subtitle-2-icon-2.png" alt="" class="icon-2">
-                            <h6 class="hero-2-subtitle">about us</h6>
+                            <h6 class="hero-2-subtitle">About us</h6>
                         </div>
-                        <h2 class="scetion-title-2 reveal-type">We Provide Best Design Solution in City</h2>
-                        <p class="section-pera-2 reveal-type-2">In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl temp lobortis. Nunc in nisi sapien. Suspendisse finibus dolo et phar etra porta. Sed quam elit, lacinia vitae mi quis</p>
+                        <h2 class="scetion-title-2 reveal-type">We provide reliable auto transport nationwide</h2>
+                        <p class="section-pera-2 reveal-type-2">At State to State Auto Transport, we’re committed to making vehicle shipping simple, secure, and stress-free. Whether you're relocating, selling, or buying a car online — our experienced team ensures your vehicle gets where it needs to go, safely and on time.
+                            We handle everything from pick-up to drop-off, so you don’t have to worry. Trusted by thousands of customers coast-to-coast.</p>
                     </div>
 
                     <!-- about-feature -->
@@ -232,8 +233,8 @@
                                     <img src="public/assets/img/new_home/about/about-2-icon-1.png" alt="">
                                 </div>
                             </div>
-                            <h4 class="title">Creative Ideas</h4>
-                            <p class="text">There are many variations of passag of Lorem Ipsum available, but the ma jority have suffered alteration</p>
+                            <h4 class="title">Nationwide Coverage</h4>
+                            <p class="text">We work with a vast network of insured, licensed carriers to move your vehicle anywhere in the U.S.</p>
                         </div>
                         <div class="hpt-about-2-feature-item wow fadeIn" data-wow-delay=".5s">
                             <img src="public/assets/img/new_home/about/about-2-icon-4.png" alt="" class="icon-2">
@@ -242,11 +243,23 @@
                                     <img src="public/assets/img/new_home/about/about-2-icon-2.png" alt="">
                                 </div>
                             </div>
-                            <h4 class="title">Creative Ideas</h4>
-                            <p class="text">There are many variations of passag of Lorem Ipsum available, but the ma jority have suffered alteration</p>
+                            <h4 class="title">Tailored Solutions</h4>
+                            <p class="text">Open or enclosed carriers, expedited delivery, seasonal routes — we offer shipping plans that match your needs and budget.</p>
+                        </div>
+                        <div class="hpt-about-2-feature-item wow fadeIn" data-wow-delay=".5s">
+                            <img src="public/assets/img/new_home/about/about-2-icon-4.png" alt="" class="icon-2">
+                            <div class="icon-wrap">
+                                <div class="icon">
+                                    <img src="public/assets/img/new_home/about/about-2-icon-2.png" alt="">
+                                </div>
+                            </div>
+                            <h4 class="title">Real-Time Updates</h4>
+                            <p class="text">Always in the Loop Stay informed from dispatch to delivery with real-time tracking and responsive customer support.</p>
                         </div>
                     </div>
-
+                    
+                    
+                    
                     <div class="hpt-about-2-btn-wrap wow fadeInRight" data-wow-duration="1s">
                         <a class="hpt-btn-3">
                             learn more
