@@ -21,11 +21,10 @@
                                 <div class="hero-2-subtitle-wrap " data-animation="fadeInUp" data-duration="1s">
                                     <img src="public/assets/img/new_home/icon/subtitle-2-icon-1.png" alt="" class="icon-1">
                                     <img src="public/assets/img/new_home/icon/subtitle-2-icon-2.png" alt="" class="icon-2">
-                                    <h6 class="hero-2-subtitle">Welcome web Agency</h6>
+                                    <h6 class="hero-2-subtitle">WELCOME TO WORLD OF LOGISTICS</h6>
                                 </div>
-                                <h1 class="hero-2-title" data-animation="fadeInUp" data-duration="1s" data-delay=".5s">We are Digital Creative Web Agency</h1>
-                                <p class="hero-2-pera" data-animation="fadeInUp" data-duration="1s" data-delay=".8s">Suspendisse finibus dolor et pharetra porta. Sed quam elit, lacinia vitae mi quis, ullamcorper imper
-                                diet dolor. Turpis nulla, eget pharetra.</p>
+                                <h1 class="hero-2-title" data-animation="fadeInUp" data-duration="1s" data-delay=".5s">We are Your Trusted Auto Shipping Experts</h1>
+                                <p class="hero-2-pera" data-animation="fadeInUp" data-duration="1s" data-delay=".8s">Whether you're moving across the country or shipping a vehicle to a customer, we make auto transport easy, fast, and secure. With a network of licensed carriers and years of experience, we deliver your vehicle safely—on time, every time.</p>
 
                                 <!-- hero-btn -->
                                 <div class="hero-2-btn-wrap" data-animation="flipInX" data-duration="1s" data-delay="1s">
@@ -75,11 +74,11 @@
                                 <div class="hero-2-subtitle-wrap" data-animation="fadeInUp" data-duration="1s">
                                     <img src="public/assets/img/new_home/icon/subtitle-2-icon-1.png" alt="" class="icon-1">
                                     <img src="public/assets/img/new_home/icon/subtitle-2-icon-2.png" alt="" class="icon-2">
-                                    <h6 class="hero-2-subtitle">Welcome web Agency</h6>
+                                    <h6 class="hero-2-subtitle">WELCOME TO WORLD OF LOGISTICS</h6>
                                 </div>
-                                <h1 class="hero-2-title" data-animation="fadeInUp" data-duration="1s" data-delay=".5s" >We are Digital Creative Web Agency</h1>
-                                <p class="hero-2-pera" data-animation="fadeInUp" data-duration="1s" data-delay=".8s">Suspendisse finibus dolor et pharetra porta. Sed quam elit, lacinia vitae mi quis, ullamcorper imper
-                                diet dolor. Turpis nulla, eget pharetra.</p>
+                                <h1 class="hero-2-title" data-animation="fadeInUp" data-duration="1s" data-delay=".5s" >Coast-to-Coast Auto Shipping
+                                    Safe. Secure. Nationwide.</h1>
+                                <p class="hero-2-pera" data-animation="fadeInUp" data-duration="1s" data-delay=".8s">From sunny California to bustling New York City, we specialize in door-to-door car transport services across the U.S. Whether it’s a sedan, SUV, classic car, or motorcycle — we’ve got the experience and carrier network to deliver with confidence.</p>
 
                                 <!-- hero-btn -->
                                 <div class="hero-2-btn-wrap" data-animation="flipInX" data-duration="1s" data-delay="1s">
@@ -129,11 +128,10 @@
                                 <div class="hero-2-subtitle-wrap" data-animation="fadeInUp" data-duration="1s">
                                     <img src="public/assets/img/new_home/icon/subtitle-2-icon-1.png" alt="" class="icon-1">
                                     <img src="public/assets/img/new_home/icon/subtitle-2-icon-2.png" alt="" class="icon-2">
-                                    <h6 class="hero-2-subtitle">Welcome web Agency</h6>
+                                    <h6 class="hero-2-subtitle">WELCOME TO WORLD OF LOGISTICS</h6>
                                 </div>
-                                <h1 class="hero-2-title" data-animation="fadeInUp" data-duration="1s" data-delay=".5s">We are Digital Creative Web Agency</h1>
-                                <p class="hero-2-pera"  data-animation="fadeInUp" data-duration="1s" data-delay=".8s">Suspendisse finibus dolor et pharetra porta. Sed quam elit, lacinia vitae mi quis, ullamcorper imper
-                                diet dolor. Turpis nulla, eget pharetra.</p>
+                                <h1 class="hero-2-title" data-animation="fadeInUp" data-duration="1s" data-delay=".5s">Stress-Free Vehicle Shipping — Every Step of the Way</h1>
+                                <p class="hero-2-pera"  data-animation="fadeInUp" data-duration="1s" data-delay=".8s">We’re not just moving cars, we’re moving peace of mind. Our expert logistics team ensures smooth scheduling, proactive updates, and reliable transport you can trust.</p>
 
                                 <!-- hero-btn -->
                                 <div class="hero-2-btn-wrap" data-animation="flipInX" data-duration="1s" data-delay="1s">
