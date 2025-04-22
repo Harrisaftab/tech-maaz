@@ -285,7 +285,7 @@
 </div>
 <!-- about-end -->
 <!-- project-start -->
-<div class="hpt-project-2-area pt-115 pb-120 fix">
+{{-- <div class="hpt-project-2-area pt-115 pb-120 fix">
     <div class="project-2-bg-img">
         <img src="public/assets/img/new_home/project/project-2-bg-img-1.png" alt="">
     </div>
@@ -437,7 +437,7 @@
         </div>
 
     </div>
-</div>
+</div> --}}
 <!-- project-end -->
 <!-- service-start -->
 <div class="hpt-service-2-area pt-120 pb-120 fix">
