@@ -46,7 +46,7 @@
                         </div>
 
                         <div class="hero-2-img-1">
-                            <img src="public/assets/img/new_home/hero/hero-2-img-1.png" alt="">
+                            <img src="public/assets/img/new_home/hero/home.webp" alt="">
                         </div>
 
                         <span class="hero-2-shape-1"></span>
@@ -99,7 +99,7 @@
                         </div>
 
                         <div class="hero-2-img-1">
-                            <img src="public/assets/img/new_home/hero/hero-2-img-2.png" alt="">
+                            <img src="public/assets/img/new_home/hero/home.webp" alt="">
                         </div>
 
                         <span class="hero-2-shape-1"></span>
@@ -152,7 +152,7 @@
                         </div>
 
                         <div class="hero-2-img-1">
-                            <img src="public/assets/img/new_home/hero/hero-2-img-3.png" alt="">
+                            <img src="public/assets/img/new_home/hero/home.webp" alt="">
                         </div>
 
                         <span class="hero-2-shape-1"></span>
