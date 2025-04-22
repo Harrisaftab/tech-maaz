@@ -8,18 +8,18 @@
     <meta name="description" content="Willems-Corporation - Web And App Agency">
     <meta name="keywords" content="agency, app, business, company, corporate, designer, freelance, fullpage, modern, office, personal, portfolio, professional, web, web agency">
     <meta name="author" content="Themexriver">
-    <link rel="shortcut icon" href="public/assets/img/logo/f-icon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/logo/f-icon.png" type="image/x-icon">
     <!-- Place favicon.ico in the root directory -->
     <!-- CSS here -->
-    <link rel="stylesheet" href="public/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="public/assets/css/fontawesome.css">
-    <link rel="stylesheet" href="public/assets/css/flaticon_aina.css">
-    <link rel="stylesheet" href="public/assets/css/animate.css">
-    <link rel="stylesheet" href="public/assets/css/global.css">
-    <link rel="stylesheet" href="public/assets/css/swiper.min.css">
-    <link rel="stylesheet" href="public/assets/css/meanmenu.css">
-    <link rel="stylesheet" href="public/assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="public/assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/flaticon_aina.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/global.css">
+    <link rel="stylesheet" href="assets/css/swiper.min.css">
+    <link rel="stylesheet" href="assets/css/meanmenu.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
@@ -46,7 +46,7 @@
         <div class="cart_items_list">
             <div class="cart_item">
                 <div class="item_image">
-                    <img src="public/assets/img/new_home/product-img/s_img1.jpg" alt="image_not_found">
+                    <img src="assets/img/new_home/product-img/s_img1.jpg" alt="image_not_found">
                 </div>
                 <div class="item_content headline">
                     <h4 class="item_title">
@@ -58,7 +58,7 @@
             </div>
             <div class="cart_item">
                 <div class="item_image">
-                    <img src="public/assets/img/new_home/product-img/s_img2.jpg" alt="image_not_found">
+                    <img src="assets/img/new_home/product-img/s_img2.jpg" alt="image_not_found">
                 </div>
                 <div class="item_content headline">
                     <h4 class="item_title">
@@ -70,7 +70,7 @@
             </div>
             <div class="cart_item">
                 <div class="item_image">
-                    <img src="public/assets/img/new_home/product-img/s_img3.jpg" alt="image_not_found">
+                    <img src="assets/img/new_home/product-img/s_img3.jpg" alt="image_not_found">
                 </div>
                 <div class="item_content headline">
                     <h4 class="item_title">
@@ -82,7 +82,7 @@
             </div>
             <div class="cart_item">
                 <div class="item_image">
-                    <img src="public/assets/img/new_home/product-img/s_img4.jpg" alt="image_not_found">
+                    <img src="assets/img/new_home/product-img/s_img4.jpg" alt="image_not_found">
                 </div>
                 <div class="item_content headline">
                     <h4 class="item_title">
@@ -112,32 +112,32 @@
         </div>
     </div>
     <!-- JS here -->
-    <script src="public/assets/js/jquery-3.6.0.min.js"></script>
-    <script src="public/assets/js/bootstrap.bundle.min.js"></script>
-    <script src="public/assets/js/swiper-bundle.min.js"></script>
-    <script src="public/assets/js/appear.js"></script>
-    <script src="public/assets/js/counter.js"></script>
-    <script src="public/assets/js/gsap.min.js"></script>
-    <script src="public/assets/js/knob.js"></script>
-    <script src="public/assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="public/assets/js/jquery.counterup.min.js"></script>
-    <script src="public/assets/js/waypoints.min.js"></script>
-    <script src="public/assets/js/parallax.min.js"></script>
-    <script src="public/assets/js/ScrollTrigger.min.js"></script>
-    <script src="public/assets/js/ScrollToPlugin.min.js"></script>
-    <script src="public/assets/js/ScrollSmoother.min.js"></script>
-    <script src="public/assets/js/SplitText.min.js"></script>
-    <script src="public/assets/js/jquery.filterizr.js"></script>
-    <script src="public/assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="public/assets/js/hover-revel.js"></script>
-    <script src="public/assets/js/split-type.min.js"></script>
-    <script src="public/assets/js/parallax-scroll.js"></script>
-    <script src="public/assets/js/jquery.marquee.min.js"></script>
-    <script src="public/assets/js/wow.min.js"></script>
-    <script src="public/assets/js/jquery.meanmenu.min.js"></script>
-    <script src="public/assets/js/tilt.jquery.min.js"></script>
-    <script src="public/assets/js/matter.min.js"></script>
-    <script src="public/assets/js/script.js"></script>
-    <script src="public/assets/js/home-6.js"></script>
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/appear.js"></script>
+    <script src="assets/js/counter.js"></script>
+    <script src="assets/js/gsap.min.js"></script>
+    <script src="assets/js/knob.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/parallax.min.js"></script>
+    <script src="assets/js/ScrollTrigger.min.js"></script>
+    <script src="assets/js/ScrollToPlugin.min.js"></script>
+    <script src="assets/js/ScrollSmoother.min.js"></script>
+    <script src="assets/js/SplitText.min.js"></script>
+    <script src="assets/js/jquery.filterizr.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/hover-revel.js"></script>
+    <script src="assets/js/split-type.min.js"></script>
+    <script src="assets/js/parallax-scroll.js"></script>
+    <script src="assets/js/jquery.marquee.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/jquery.meanmenu.min.js"></script>
+    <script src="assets/js/tilt.jquery.min.js"></script>
+    <script src="assets/js/matter.min.js"></script>
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/home-6.js"></script>
 </body>
 </html>
