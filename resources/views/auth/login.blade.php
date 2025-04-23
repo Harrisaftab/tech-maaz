@@ -1,6 +1,6 @@
 <x-guest-layout>
     <section class="auth-page-wrapper p-2 p-lg-4 position-relative d-flex align-items-center justify-content-center min-vh-100">
-        <div class="card mb-0 w-100 p-3 p-lg-2" style="background-image: url('{{ asset('assets/images/auth/auth.jpg') }}'); background-size: cover; background-position: center;">
+        <div class="card mb-0 w-100 p-3 p-lg-2" style="background-image: url('{{ asset('public/assets/images/auth/auth.jpg') }}'); background-size: cover; background-position: center;">
             <div class="effect-one"></div>
             <div class="row g-0 align-items-center">
                 <div class="col-xxl-8 order-last order-xl-first">
@@ -22,8 +22,8 @@
                             <div class="text-center mt-4">
                                 <div class="mb-4 pb-2">
                                     <a href="/" class="auth-logo">
-                                        <img src="{{ asset('assets/images/logo-dark.png') }}" alt="logo" height="30" class="auth-logo-dark mx-auto">
-                                        <img src="{{ asset('assets/images/logo-light.png') }}" alt="logo" height="30" class="auth-logo-light mx-auto">
+                                        <img src="{{ asset('public/assets/images/logo-dark.png') }}" alt="logo" height="30" class="auth-logo-dark mx-auto">
+                                        <img src="{{ asset('public/assets/images/logo-light.png') }}" alt="logo" height="30" class="auth-logo-light mx-auto">
                                     </a>
                                 </div>
                                 <h5 class="fs-3xl">Welcome Back</h5>
@@ -89,5 +89,4 @@
             </div>
         </div>
     </section>
-    </x-guest-layout>
-    
+</x-guest-layout>
