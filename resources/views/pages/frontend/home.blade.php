@@ -301,13 +301,13 @@
 				<div class="bi-team-details-contact-form">
 					<form action="calculate_quote.php" method="post" enctype="multipart/form-data">
 						<div class="row">
-							<div class="col-md-6">
+							<div class="col-md-4">
 								<input type="text" name="full_name" placeholder="Full Name" required>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-4">
 								<input type="tel" name="phone" placeholder="+1 Phone Number" required>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-4">
 								<input type="email" name="email" placeholder="Your Email Address" required>
 							</div>
 							<div class="col-md-6">
@@ -316,7 +316,6 @@
 							<div class="col-md-6">
 								<input type="text" name="delivery_location" placeholder="Delivery Location (Ex: 90005 or Los Angeles)" required>
 							</div>
-
 							<!-- Car Information -->
 							<div class="col-md-4">
 								<select name="car_year" required>
@@ -343,7 +342,6 @@
 									<option value="F-150">F-150</option>
 								</select>
 							</div>
-
 							<div class="col-md-6">
 								<select name="trailer_type" required>
 									<option value="">Select Trailer Type</option>
@@ -351,7 +349,6 @@
 									<option value="Enclosed">Enclosed</option>
 								</select>
 							</div>
-
 							<div class="col-md-6">
 								<select name="car_condition" required>
 									<option value="">Condition</option>
@@ -359,7 +356,6 @@
 									<option value="Non-running">Non-running</option>
 								</select>
 							</div>
-
 							<div class="col-md-6">
 								<label>Vehicle Image:</label>
 								<input type="file" name="vehicle_image" accept="image/*">
