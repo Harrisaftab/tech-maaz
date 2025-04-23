@@ -299,43 +299,79 @@
 				</iframe>
 			</div>
             <div class="bi-team-details-contact-info headline pera-content">
-				<div class="bi-team-details-contact-title">
-					<div class="bi-section-title-1 headline pera-content">
-						<div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-							Welcome Creative Agency
-						</div>
-						<h2 class="headline-title">
-							Keep In Touch
-						</h2>
-					</div>
-					<p>In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl tempus lobortis.</p>
-					<div class="bi-team-details-contact-form">
-						<form action="sendmail.php" method="post">
-							<div class="row">
-								<div class="col-md-6">
-									<input type="text" name="name" placeholder="First Name">
-								</div>
-								<div class="col-md-6">
-									<input type="text" name="Email" placeholder="Email">
-								</div>
-								<div class="col-md-6">
-									<input type="text" name="phone" placeholder="Phone No.">
-								</div>
-								<div class="col-md-6">
-									<input type="text" name="subject" placeholder="Subject">
-								</div>
-								<div class="col-md-12">
-									<textarea name="message" placeholder="Your Message"></textarea>
-								</div>
-								<div class="col-md-12">
-									<div class="bi-submit-btn">
-										<button type="submit">Send messages</button>
-									</div>
-								</div>
-							</div>
-						</form>
-					</div>
-				</div>
+                <div class="bi-team-details-contact-title">
+                    <div class="bi-section-title-1 headline pera-content">
+                        <div class="bi-subtitle text-uppercase wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1000ms">
+                            Welcome Creative Agency
+                        </div>
+                        <h2 class="headline-title">Instant Car Shipping Quote</h2>
+                    </div>
+                    <p>Get an instant quote by providing the details below.</p>
+                    <div class="bi-team-details-contact-form">
+                        <form action="sendmail.php" method="post" enctype="multipart/form-data">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <input type="text" name="full_name" placeholder="Full Name" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="text" name="phone" placeholder="+1 Phone Number" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="email" name="email" placeholder="Your Email Address" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="text" name="pickup_location" placeholder="Pickup Location (e.g. 90005 or Los Angeles)" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="text" name="delivery_location" placeholder="Delivery Location (e.g. 90005 or Los Angeles)" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <select name="year" required>
+                                        <option value="">Select Year</option>
+                                        <script>
+                                            for(let y = new Date().getFullYear(); y >= 1990; y--) {
+                                                document.write(`<option value="${y}">${y}</option>`);
+                                            }
+                                        </script>
+                                    </select>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="text" name="make" placeholder="Select Make" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="text" name="model" placeholder="Select Model" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <select name="trailer_type" required>
+                                        <option value="">Select Trailer Type</option>
+                                        <option value="open">Open</option>
+                                        <option value="enclosed">Enclosed</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-6">
+                                    <select name="condition" required>
+                                        <option value="">Select Condition</option>
+                                        <option value="running">Running</option>
+                                        <option value="non-running">Non-Running</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-6">
+                                    <label>Add Vehicle Image:</label>
+                                    <input type="file" name="vehicle_image" accept="image/*">
+                                </div>
+                                <div class="col-md-6">
+                                    <label><input type="checkbox" name="is_modified"> Modified?</label><br>
+                                    <label><input type="checkbox" name="is_auction"> Available at Auction?</label>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="bi-submit-btn">
+                                        <button type="submit">Calculate Price</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>                
 			</div>
 		</div>
 	</div>
