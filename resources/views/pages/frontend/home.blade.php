@@ -284,161 +284,64 @@
     </div>
 </div>
 <!-- about-end -->
-<!-- project-start -->
-{{-- <div class="hpt-project-2-area pt-115 pb-120 fix">
-    <div class="project-2-bg-img">
-        <img src="public/assets/img/new_home/project/project-2-bg-img-1.png" alt="">
-    </div>
-    <div class="container h1-container z-index-3">
-        <!-- section-title -->
-        <div class="hpt-project-2-section-title mb-70 text-center">
-            <div class="section-subtitle-2-wrap">
-                <img src="public/assets/img/new_home/icon/subtitle-2-icon-1.png" alt="" class="icon-1">
-                <img src="public/assets/img/new_home/icon/subtitle-2-icon-2.png" alt="" class="icon-2">
-                <h6 class="hero-2-subtitle">our works</h6>
-            </div>
-            <h2 class="scetion-title-2 reveal-type">Explore Our Best Recently <br> Completed Projects</h2>
-        </div>
-
-        <!-- item-wrap -->
-        <div class="hpt-project-2-wrap mb-70">
-
-            <!-- project-item-wrap -->
-            <div class="hpt-project-2-item-wrap-1">
-
-                <!-- single-project -->
-                <div class="hpt-project-2-item wow fadeInLeft">
-                    <div class="img-wrap">
-                        <img src="public/assets/img/new_home/project/project-2-img-1.png" alt="">
-                    </div>
-                    <div class="hpt-project-2-item-btn">
-                        <a class="redius-btn-1 play_btn_animation " >
-                            <span class="icon">
-                                <i class="fal fa-long-arrow-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                    <div class="title-position">
-                        <div class="title-wrap">
-                            <h3 class="title">Banking Apps Design</h3>
-                            <h3 class="title">Banking Apps Design</h3>
-                            <h3 class="title">Banking Apps Design</h3>
-                            <h3 class="title">Banking Apps Design</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- single-project -->
-                <div class="hpt-project-2-item pt-170 wow fadeInRight">
-                    <div class="img-wrap">
-                        <img src="public/assets/img/new_home/project/project-2-img-2.png" alt="">
-                    </div>
-                    <div class="hpt-project-2-item-btn">
-                        <a class="redius-btn-1 play_btn_animation " >
-                            <span class="icon">
-                                <i class="fal fa-long-arrow-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                    <div class="title-position">
-                        <div class="title-wrap">
-                            <h3 class="title">Course Website Design</h3>
-                            <h3 class="title">Course Website Design</h3>
-                            <h3 class="title">Course Website Design</h3>
-                            <h3 class="title">Course Website Design</h3>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <!-- project-item-wrap -->
-            <div class="hpt-project-2-item-wrap-2">
-
-                <!-- single-project -->
-                <div class="hpt-project-2-item wow fadeInLeft">
-                    <div class="img-wrap">
-                        <img src="public/assets/img/new_home/project/project-2-img-3.png" alt="">
-                    </div>
-                    <div class="hpt-project-2-item-btn">
-                        <a class="redius-btn-1 play_btn_animation " >
-                            <span class="icon">
-                                <i class="fal fa-long-arrow-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                    <div class="title-position">
-                        <div class="title-wrap">
-                            <h3 class="title">Agency Website Design</h3>
-                            <h3 class="title">Agency Website Design</h3>
-                            <h3 class="title">Agency Website Design</h3>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <!-- project-item-wrap -->
-            <div class="hpt-project-2-item-wrap-1">
-
-                <!-- single-project -->
-                <div class="hpt-project-2-item pt-170 wow fadeInLeft">
-                    <div class="img-wrap">
-                        <img src="public/assets/img/new_home/project/project-2-img-4.png" alt="">
-                    </div>
-                    <div class="hpt-project-2-item-btn">
-                        <a class="redius-btn-1 play_btn_animation " >
-                            <span class="icon">
-                                <i class="fal fa-long-arrow-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                    <div class="title-position">
-                        <div class="title-wrap">
-                            <h3 class="title">AI Website Design</h3>
-                            <h3 class="title">AI Website Design</h3>
-                            <h3 class="title">AI Website Design</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- single-project -->
-                <div class="hpt-project-2-item wow fadeInRight">
-                    <div class="img-wrap">
-                        <img src="public/assets/img/new_home/project/project-2-img-5.png" alt="">
-                    </div>
-                    <div class="hpt-project-2-item-btn">
-                        <a class="redius-btn-1 play_btn_animation " >
-                            <span class="icon">
-                                <i class="fal fa-long-arrow-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                    <div class="title-position">
-                        <div class="title-wrap">
-                            <h3 class="title">Mobile Application Design</h3>
-                            <h3 class="title">Mobile Application Design</h3>
-                            <h3 class="title">Mobile Application Design</h3>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-
-        <!-- btn-wrap -->
-        <div class="hpt-project-2-section-btn wow fadeInUp">
-            <p class="project-2-pera">In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl temp lobortis. Nunc in nisi sapien. Suspendisse finibus dolo et phar etra porta. Sed quam elit, lacinia vitae mi quis</p>
-            <a class="hpt-btn-3">
-                learn more
-                <span class="icon"><i class="fal fa-chevron-double-right"></i></span>
-            </a>
-        </div>
-
-    </div>
-</div> --}}
-<!-- project-end -->
+<!-- Start of contact Form section
+	============================================= -->
+<section id="bi-contact-form" class="bi-contact-form-section">
+    <div class="bi-contact-map">
+        <div class="bi-contact-map-content d-flex flex-wrap">
+            <div class="bi-team-details-contact-info headline pera-content">
+				<div class="bi-team-details-contact-title">
+					<div class="bi-section-title-1 headline pera-content">
+						<div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
+							Welcome Creative Agency
+						</div>
+						<h2 class="headline-title">
+							Keep In Touch
+						</h2>
+					</div>
+					<p>In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl tempus lobortis.</p>
+					<div class="bi-team-details-contact-form">
+						<form action="sendmail.php" method="post">
+							<div class="row">
+								<div class="col-md-6">
+									<input type="text" name="name" placeholder="First Name">
+								</div>
+								<div class="col-md-6">
+									<input type="text" name="Email" placeholder="Email">
+								</div>
+								<div class="col-md-6">
+									<input type="text" name="phone" placeholder="Phone No.">
+								</div>
+								<div class="col-md-6">
+									<input type="text" name="subject" placeholder="Subject">
+								</div>
+								<div class="col-md-12">
+									<textarea name="message" placeholder="Your Message"></textarea>
+								</div>
+								<div class="col-md-12">
+									<div class="bi-submit-btn">
+										<button type="submit">Send messages</button>
+									</div>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+            <div class="google-map">
+					<iframe
+					width="850"
+					height="635"
+					frameborder="0"
+					style="border:0"
+					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055679.938791722!2d-118.69192057451524!3d34.02073045604696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe9cf4e3f61be365!2sLos%20Angeles%2C%20CA%2C%20USA!5e0!3m2!1sen!2sin!4v1625541262480!5m2!1sen!2sin">
+				</iframe>
+			</div>
+		</div>
+	</div>
+</section>		
+<!-- End of  contact Form section
+	============================================= -->	
 <!-- service-start -->
 <div class="hpt-service-2-area pt-120 pb-120 fix">
     <img src="public/assets/img/new_home/bg-shape/blog-2-shape-1.png" alt="" class="bg-shape-1">

@@ -72,7 +72,7 @@
 
 <!-- Start of contact Form section
 	============================================= -->
-	<section id="bi-contact-form" class="bi-contact-form-section">
+<section id="bi-contact-form" class="bi-contact-form-section">
 		<div class="bi-contact-map">
 			<div class="bi-contact-map-content d-flex flex-wrap">
 				<div class="google-map">
