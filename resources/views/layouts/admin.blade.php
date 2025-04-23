@@ -9,22 +9,22 @@
         <meta content="Minimal Admin & Dashboard Template" name="description">
         <meta content="Themesbrand" name="author">
         <title>Admin-Login</title>
-        <link rel="shortcut icon" href="../admin/images/favicon.ico">
+        <link rel="shortcut icon" href="public/admin/images/favicon.ico">
         <!-- Fonts css load -->
         <link rel="preconnect" href="https://fonts.googleapis.com/">
         <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
         <link id="fontsLink" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">    <!--Swiper slider css-->
-        <link href="../admin/libs/swiper/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
+        <link href="public/admin/libs/swiper/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
         <!-- Layout config Js -->
-        <script src="../admin/js/layout.js"></script>
+        <script src="public/admin/js/layout.js"></script>
         <!-- Bootstrap Css -->
-        <link href="../admin/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="public/admin/css/bootstrap.min.css" rel="stylesheet" type="text/css">
         <!-- Icons Css -->
-        <link href="../admin/css/icons.min.css" rel="stylesheet" type="text/css">
+        <link href="public/admin/css/icons.min.css" rel="stylesheet" type="text/css">
         <!-- App Css-->
-        <link href="../admin/css/app.min.css" rel="stylesheet" type="text/css">
+        <link href="public/admin/css/app.min.css" rel="stylesheet" type="text/css">
         <!-- custom Css-->
-        <link href="../admin/css/custom.min.css" rel="stylesheet" type="text/css">
+        <link href="public/admin/css/custom.min.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <!-- Begin page -->
@@ -172,7 +172,7 @@
                                     <div class="form-check card-radio">
                                         <input class="form-check-input" type="radio" name="data-bs-theme" id="layout-mode-light" value="light">
                                         <label class="form-check-label p-0 bg-transparent" for="layout-mode-light">
-                                            <img src="../admin/images/custom-theme/light-mode.png" alt="" class="img-fluid">
+                                            <img src="public/admin/images/custom-theme/light-mode.png" alt="" class="img-fluid">
                                         </label>
                                     </div>
                                     <h5 class="fs-sm text-center fw-medium mt-2">Light</h5>
@@ -182,7 +182,7 @@
                                     <div class="form-check card-radio dark">
                                         <input class="form-check-input" type="radio" name="data-bs-theme" id="layout-mode-dark" value="dark">
                                         <label class="form-check-label p-0 bg-transparent" for="layout-mode-dark">
-                                            <img src="../admin/images/custom-theme/dark-mode.png" alt="" class="img-fluid">
+                                            <img src="public/admin/images/custom-theme/dark-mode.png" alt="" class="img-fluid">
                                         </label>
                                     </div>
                                     <h5 class="fs-sm text-center fw-medium mt-2">Dark</h5>
@@ -588,26 +588,26 @@
                                 <div class="form-check sidebar-setting card-radio">
                                     <input class="form-check-input" type="radio" name="data-sidebar-image" id="sidebarimg-01" value="img-1">
                                     <label class="form-check-label p-0 avatar-sm h-auto" for="sidebarimg-01">
-                                        <img src="../admin/images/sidebar/img-sm-1.jpg" alt="" class="avatar-md w-auto object-cover">
+                                        <img src="public/admin/images/sidebar/img-sm-1.jpg" alt="" class="avatar-md w-auto object-cover">
                                     </label>
                                 </div>
         
                                 <div class="form-check sidebar-setting card-radio">
                                     <input class="form-check-input" type="radio" name="data-sidebar-image" id="sidebarimg-02" value="img-2">
                                     <label class="form-check-label p-0 avatar-sm h-auto" for="sidebarimg-02">
-                                        <img src="../admin/images/sidebar/img-sm-2.jpg" alt="" class="avatar-md w-auto object-cover">
+                                        <img src="public/admin/images/sidebar/img-sm-2.jpg" alt="" class="avatar-md w-auto object-cover">
                                     </label>
                                 </div>
                                 <div class="form-check sidebar-setting card-radio">
                                     <input class="form-check-input" type="radio" name="data-sidebar-image" id="sidebarimg-03" value="img-3">
                                     <label class="form-check-label p-0 avatar-sm h-auto" for="sidebarimg-03">
-                                        <img src="../admin/images/sidebar/img-sm-3.jpg" alt="" class="avatar-md w-auto object-cover">
+                                        <img src="public/admin/images/sidebar/img-sm-3.jpg" alt="" class="avatar-md w-auto object-cover">
                                     </label>
                                 </div>
                                 <div class="form-check sidebar-setting card-radio">
                                     <input class="form-check-input" type="radio" name="data-sidebar-image" id="sidebarimg-04" value="img-4">
                                     <label class="form-check-label p-0 avatar-sm h-auto" for="sidebarimg-04">
-                                        <img src="../admin/images/sidebar/img-sm-4.jpg" alt="" class="avatar-md w-auto object-cover">
+                                        <img src="public/admin/images/sidebar/img-sm-4.jpg" alt="" class="avatar-md w-auto object-cover">
                                     </label>
                                 </div>
                             </div>
@@ -692,17 +692,17 @@
             </div>
         </div>
         <!-- JAVASCRIPT -->
-        <script src="../admin/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="../admin/libs/simplebar/dist/simplebar.min.js"></script>
-        <script src="../admin/js/plugins.js"></script>    
-        <script src="../admin/libs/list.js/dist/list.min.js"></script>
+        <script src="public/admin/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="public/admin/libs/simplebar/dist/simplebar.min.js"></script>
+        <script src="public/admin/js/plugins.js"></script>    
+        <script src="public/admin/libs/list.js/dist/list.min.js"></script>
         <!--Swiper slider js-->
-        <script src="../admin/libs/swiper/swiper-bundle.min.js"></script>
+        <script src="public/admin/libs/swiper/swiper-bundle.min.js"></script>
         <!-- apexcharts -->
-        <script src="../admin/libs/apexcharts/dist/apexcharts.min.js"></script>
+        <script src="public/admin/libs/apexcharts/dist/apexcharts.min.js"></script>
         <!--dashboard doctor init js-->
-        <script src="../admin/js/pages/dashboard-doctor.init.js"></script>
+        <script src="public/admin/js/pages/dashboard-doctor.init.js"></script>
         <!-- App js -->
-        <script src="../admin/js/app.js"></script>
+        <script src="public/admin/js/app.js"></script>
     </body>
 </html>
