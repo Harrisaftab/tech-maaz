@@ -286,96 +286,105 @@
 <!-- about-end -->
 <!-- Start of contact Form section
 	============================================= -->
-<section id="bi-contact-form" class="bi-contact-form-section">
-    <div class="bi-contact-map">
-        <div class="bi-contact-map-content d-flex flex-wrap">
-            <div class="google-map">
-					<iframe
-					width="850"
-					height="635"
-					frameborder="0"
-					style="border:0"
-					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055679.938791722!2d-118.69192057451524!3d34.02073045604696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe9cf4e3f61be365!2sLos%20Angeles%2C%20CA%2C%20USA!5e0!3m2!1sen!2sin!4v1625541262480!5m2!1sen!2sin">
-				</iframe>
+<!-- Start of Car Shipping Quote Form ============================================= -->
+<section id="car-shipping-quote" class="bi-job-apply-section inner-page-padding">
+	<div class="container">
+		<div class="bi-section-title-1 text-center headline pera-content">
+			<div class="bi-subtitle text-uppercase wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1000ms">
+				Instant Car Shipping Quote!
 			</div>
-            <div class="bi-team-details-contact-info headline pera-content">
-                <div class="bi-team-details-contact-title">
-                    <div class="bi-section-title-1 headline pera-content">
-                        <div class="bi-subtitle text-uppercase wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1000ms">
-                            Welcome Creative Agency
-                        </div>
-                        <h2 class="headline-title">Instant Car Shipping Quote</h2>
-                    </div>
-                    <p>Get an instant quote by providing the details below.</p>
-                    <div class="bi-team-details-contact-form">
-                        <form action="sendmail.php" method="post" enctype="multipart/form-data">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <input type="text" name="full_name" placeholder="Full Name" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="text" name="phone" placeholder="+1 Phone Number" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="email" name="email" placeholder="Your Email Address" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="text" name="pickup_location" placeholder="Pickup Location (e.g. 90005 or Los Angeles)" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="text" name="delivery_location" placeholder="Delivery Location (e.g. 90005 or Los Angeles)" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <select name="year" required>
-                                        <option value="">Select Year</option>
-                                        <script>
-                                            for(let y = new Date().getFullYear(); y >= 1990; y--) {
-                                                document.write(`<option value="${y}">${y}</option>`);
-                                            }
-                                        </script>
-                                    </select>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="text" name="make" placeholder="Select Make" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="text" name="model" placeholder="Select Model" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <select name="trailer_type" required>
-                                        <option value="">Select Trailer Type</option>
-                                        <option value="open">Open</option>
-                                        <option value="enclosed">Enclosed</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-6">
-                                    <select name="condition" required>
-                                        <option value="">Select Condition</option>
-                                        <option value="running">Running</option>
-                                        <option value="non-running">Non-Running</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-6">
-                                    <label>Add Vehicle Image:</label>
-                                    <input type="file" name="vehicle_image" accept="image/*">
-                                </div>
-                                <div class="col-md-6">
-                                    <label><input type="checkbox" name="is_modified"> Modified?</label><br>
-                                    <label><input type="checkbox" name="is_auction"> Available at Auction?</label>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="bi-submit-btn">
-                                        <button type="submit">Calculate Price</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>                
+			<h2 class="headline-title">Get Your Instant Quote</h2>
+		</div>
+
+		<div class="bi-team-details-contact-info headline pera-content">
+			<div class="bi-team-details-contact-title">
+				<div class="bi-team-details-contact-form">
+					<form action="calculate_quote.php" method="post" enctype="multipart/form-data">
+						<div class="row">
+							<div class="col-md-6">
+								<input type="text" name="full_name" placeholder="Full Name" required>
+							</div>
+							<div class="col-md-6">
+								<input type="tel" name="phone" placeholder="+1 Phone Number" required>
+							</div>
+							<div class="col-md-6">
+								<input type="email" name="email" placeholder="Your Email Address" required>
+							</div>
+							<div class="col-md-6">
+								<input type="text" name="pickup_location" placeholder="Pickup Location (Ex: 90005 or Los Angeles)" required>
+							</div>
+							<div class="col-md-6">
+								<input type="text" name="delivery_location" placeholder="Delivery Location (Ex: 90005 or Los Angeles)" required>
+							</div>
+
+							<!-- Car Information -->
+							<div class="col-md-4">
+								<select name="car_year" required>
+									<option value="">Select Year</option>
+									<!-- Add more years as needed -->
+									<option value="2025">2025</option>
+									<option value="2024">2024</option>
+									<option value="2023">2023</option>
+								</select>
+							</div>
+							<div class="col-md-4">
+								<select name="car_make" required>
+									<option value="">Select Make</option>
+									<option value="Toyota">Toyota</option>
+									<option value="Honda">Honda</option>
+									<option value="Ford">Ford</option>
+								</select>
+							</div>
+							<div class="col-md-4">
+								<select name="car_model" required>
+									<option value="">Select Model</option>
+									<option value="Civic">Civic</option>
+									<option value="Camry">Camry</option>
+									<option value="F-150">F-150</option>
+								</select>
+							</div>
+
+							<div class="col-md-6">
+								<select name="trailer_type" required>
+									<option value="">Select Trailer Type</option>
+									<option value="Open">Open</option>
+									<option value="Enclosed">Enclosed</option>
+								</select>
+							</div>
+
+							<div class="col-md-6">
+								<select name="car_condition" required>
+									<option value="">Condition</option>
+									<option value="Running">Running</option>
+									<option value="Non-running">Non-running</option>
+								</select>
+							</div>
+
+							<div class="col-md-6">
+								<label>Vehicle Image:</label>
+								<input type="file" name="vehicle_image" accept="image/*">
+							</div>
+							<div class="col-md-3">
+								<label><input type="checkbox" name="is_modified"> Modified?</label>
+							</div>
+							<div class="col-md-3">
+								<label><input type="checkbox" name="at_auction"> Available at Auction?</label>
+							</div>
+
+							<div class="col-md-12">
+								<div class="ai-submit-btn d-flex">
+									<button type="submit">Calculate Price</button>
+								</div>
+							</div>
+						</div>
+					</form>
+				</div>
 			</div>
 		</div>
 	</div>
-</section>		
+</section>
+<!-- End of Car Shipping Quote Form ============================================= -->
+	
 <!-- End of  contact Form section
 	============================================= -->	
 <!-- service-start -->
