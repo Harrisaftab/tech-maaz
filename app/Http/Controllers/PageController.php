@@ -25,4 +25,7 @@ class PageController extends Controller
     public function contact() {
         return view('pages.frontend.contact');
     }
+    public function carQuote() {
+        return view('pages.frontend.car-quote');
+    }
 }
