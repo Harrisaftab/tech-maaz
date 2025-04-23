@@ -289,6 +289,15 @@
 <section id="bi-contact-form" class="bi-contact-form-section">
     <div class="bi-contact-map">
         <div class="bi-contact-map-content d-flex flex-wrap">
+            <div class="google-map">
+					<iframe
+					width="850"
+					height="635"
+					frameborder="0"
+					style="border:0"
+					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055679.938791722!2d-118.69192057451524!3d34.02073045604696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe9cf4e3f61be365!2sLos%20Angeles%2C%20CA%2C%20USA!5e0!3m2!1sen!2sin!4v1625541262480!5m2!1sen!2sin">
+				</iframe>
+			</div>
             <div class="bi-team-details-contact-info headline pera-content">
 				<div class="bi-team-details-contact-title">
 					<div class="bi-section-title-1 headline pera-content">
@@ -327,15 +336,6 @@
 						</form>
 					</div>
 				</div>
-			</div>
-            <div class="google-map">
-					<iframe
-					width="850"
-					height="635"
-					frameborder="0"
-					style="border:0"
-					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055679.938791722!2d-118.69192057451524!3d34.02073045604696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe9cf4e3f61be365!2sLos%20Angeles%2C%20CA%2C%20USA!5e0!3m2!1sen!2sin!4v1625541262480!5m2!1sen!2sin">
-				</iframe>
 			</div>
 		</div>
 	</div>
