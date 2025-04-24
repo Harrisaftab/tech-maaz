@@ -197,7 +197,7 @@
 <!-- hero-end -->
 <!-- about-start -->
 <div class="hpt-about-2-area pt-120 pb-160 fix">
-    <img src="public/assets/img/new_home/about/about-2-img-2.png " alt="" class="about-2-bg-img-1 wow fadeInRight" data-wow-delay="1s">
+    <img src="public/assets/img/new_home/about/589x716.webp " alt="" class="about-2-bg-img-1 wow fadeInRight" data-wow-delay="1s">
     <img src="public/assets/img/new_home/bg-shape/about-2-bg-shape-1.png" alt="" class="about-2-bg-shape-1">
     <div class="container h2-container">
         <div class="hpt-about-2-wrap">
@@ -205,7 +205,7 @@
             <div class="left">
                 <div class="hpt-about-2-img-wrap wow fadeInUp" >
                     <div class="about-2-img">
-                        <img src="public/assets/img/new_home/about/about-2-img-1.png" alt="">
+                        <img src="public/assets/img/new_home/about/681x741.webp" alt="">
                     </div>
                 </div>
             </div>
