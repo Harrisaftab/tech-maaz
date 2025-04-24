@@ -990,7 +990,7 @@
                 <div class="hpt-faq-1-right">
 
                     <div class="hpt-faq-1-img wow fadeIn">
-                        <img src="public/assets/img/new_home/faq/faq-2-img-2.png" alt="">
+                        <img src="public/assets/img/new_home/faq/faq-2-img-2.webp" alt="">
                     </div>
                     <img src="public/assets/img/new_home/faq/faq-2-bg-shape-1.png" alt="" class="faq-2-img-bg wow pulse" data-wow-iteration="3">
 
