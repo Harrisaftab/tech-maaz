@@ -95,10 +95,10 @@
 			<div class="container">
 				<div class="bi-footer-logo">
 					<div class="brand-logo text-center">
-						<a href="#"><img src="public/assets/img/logo/logo2.png" alt=""></a>
+						<a href="#"><img src="#" alt="State-To-State-Auto-Transport-Logo"></a>
 					</div>
 					<div class="logo-mail text-center headline">
-						<h3><a href="#">email@webs.com</a></h3>
+						<h3><a href="#">contact@statetostateautotransportllc.com</a></h3>
 					</div>
 				</div>
 			</div>
