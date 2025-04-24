@@ -6,7 +6,7 @@
 				<div class="bi-footer-cta-content headline d-flex align-items-center  justify-content-between flex-wrap" data-background="public/assets/img/bg/cta-bg.jpg">
 					<div class="bi-footer-cta-text"> 
 						<h3>Looking for a
-						Design Parner?</h3>
+						Shipping?</h3>
 					</div>
 					<div class="bi-cta-btn">
 						<div class="bi-btn-1  bi-btn-area text-uppercase">
@@ -33,44 +33,44 @@
 					<div class="col-lg-2">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
-								<h3 class="widget-title">UI Design</h3>
-								<ul>
+								<h3 class="widget-title">Our Services</h3>
+								{{-- <ul>
 									<li><a href="#">Estimation</a></li>
 									<li><a href="#">Research</a></li>
 									<li><a href="#">Storyboard</a></li>
 									<li><a href="#">User Flow</a></li>
 									<li><a href="#">Information </a></li>
 									<li><a href="#">Storyboard (IA)</a></li>
-								</ul>
+								</ul> --}}
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-3">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
-								<h3 class="widget-title">Development</h3>
-								<ul>
+								<h3 class="widget-title">Useful Links</h3>
+								{{-- <ul>
 									<li><a href="#">Front End (HTML, CSS, React)</a></li>
 									<li><a href="#">Backend (Node.js, MongoDB)</a></li>
 									<li><a href="#">iOS (Swift)</a></li>
 									<li><a href="#">Android (Kotlin, Flutter)</a></li>
 									<li><a href="#">Post Delivery Support</a></li>
-								</ul>
+								</ul> --}}
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-2">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
-								<h3 class="widget-title">UI Design</h3>
-								<ul>
+								<h3 class="widget-title">Contact Info</h3>
+								{{-- <ul>
 									<li><a href="#">Define Idea</a></li>
 									<li><a href="#">Target Audience</a></li>
 									<li><a href="#">Idea Validation</a></li>
 									<li><a href="#">Customer Value </a></li>
 									<li><a href="#">Build MVP Version</a></li>
 									<li><a href="#">Competitor Reserach</a></li>
-								</ul>
+								</ul> --}}
 							</div>
 						</div>
 					</div>
@@ -104,7 +104,7 @@
 			</div>
 		</div>
 		<div class="bi-footer-copyright text-center">
-			Copyright 2023 @webagency
+			Copyright 2025
 		</div>
 	</footer>	
 <!-- End of Footer  section

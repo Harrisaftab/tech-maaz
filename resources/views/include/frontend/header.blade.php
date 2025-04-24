@@ -40,7 +40,7 @@
             <div class="info-box-wrap">
                 <div class="info-box">
                     <h6 class="title"><i class="fas fa-phone-alt"></i>Phone</h6>
-                    <p>(866) 710-9709</p>
+                    <p>+1(862) 210-2173</p>
                 </div>
                 <div class="info-box">
                     <h6 class="title"><i class="fas fa-envelope"></i>Email</h6>
@@ -61,7 +61,7 @@
             <div class="container h1-container">
                 <div class="hpt-header-2-content">
                     <a class="hpt-header-2-logo" href="{{ route('home') }}">
-                        <img src="public/assets/img/new_home/logo/Logo-color-2.png" alt="logo">
+                        <img src="#" alt="State-To-State-Auto-Transport-logo">
                     </a>
                     <nav class="hpt-header-2-menu" id="mobile_menu">
                         <ul>
