@@ -32,7 +32,7 @@
 								<div class="bi-about-img-text-btn">
 									<div class="bi-about-img-text pera-content bins-text">
 										<p>
-											Our goal is to make it as easy as possible for you to walk away with the solution that suits your needs perfectly.
+											Our mission is to make your vehicle transport experience seamless, affordable, and stress-free—with a solution tailored to your timeline and budget.
 										</p>
 									</div>
 									<div class="bi-btn-1 bi-btn-area text-uppercase wow fadeInUp"  data-wow-delay="500ms" data-wow-duration="1000ms">
@@ -51,12 +51,12 @@
 						<div class="bi-about-text-area">
 							<div class="bi-section-title-1 headline pera-content">
 								<div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-									Welcome Creative Agency
+									WELCOME TO RELIABLE AUTO TRANSPORT
 								</div>
 								<h2 class="headline-title">
-									<b>Un</b>lock Revenue 
-									<span>Growth for Your </span>
-									<b>Bu</b>siness
+									<b>Un</b>lock Reliable 
+									<span>Shipping for Your</span>
+									<b>Vehicle Needs</b>
 								</h2>
 							</div>
 						</div>
@@ -67,11 +67,11 @@
 										<div class="counter-boxed d-flex align-items-center pera-content headline">
 											<div class="graph-outer position-relative">
 												<input type="text" class="dial" data-fgColor="#fe5151" data-bgColor="#e3e3eb" data-width="80" data-height="80" data-linecap="round"  value="90" >
-												<div class="inner-text count-box"><span class="count-text" data-stop="90" data-speed="4500"></span>%</div>
+												<div class="inner-text count-box"><span class="count-text" data-stop="99" data-speed="4500"></span>%</div>
 											</div>
 											<div class="bi-about-prog-text">
-												<h3 class="text-uppercase">Backend </h3>
-												<p>( Node.js, MongoDB )</p>
+												<h3 class="text-uppercase">COAST-TO-COAST SHIPPING </h3>
+												<p>( Nationwide Coverage )</p>
 											</div>
 										</div>
 									</div>
@@ -81,11 +81,11 @@
 										<div class="counter-boxed d-flex align-items-center pera-content headline">
 											<div class="graph-outer position-relative">
 												<input type="text" class="dial" data-fgColor="#fe5151" data-bgColor="#e3e3eb" data-width="80" data-height="80" data-linecap="round"  value="90" >
-												<div class="inner-text count-box"><span class="count-text" data-stop="90" data-speed="4500"></span>%</div>
+												<div class="inner-text count-box"><span class="count-text" data-stop="99" data-speed="4500"></span>%</div>
 											</div>
 											<div class="bi-about-prog-text">
-												<h3 class="text-uppercase">Android </h3>
-												<p>( Kotlin, Flutter )</p>
+												<h3 class="text-uppercase">OPEN & ENCLOSED TRANSPORT </h3>
+												<p>( Cars, SUVs, Classics )</p>
 											</div>
 										</div>
 									</div>
@@ -95,11 +95,11 @@
 										<div class="counter-boxed d-flex align-items-center pera-content headline">
 											<div class="graph-outer position-relative">
 												<input type="text" class="dial" data-fgColor="#fe5151" data-bgColor="#e3e3eb" data-width="80" data-height="80" data-linecap="round"  value="90" >
-												<div class="inner-text count-box"><span class="count-text" data-stop="90" data-speed="4500"></span>%</div>
+												<div class="inner-text count-box"><span class="count-text" data-stop="99" data-speed="4500"></span>%</div>
 											</div>
 											<div class="bi-about-prog-text">
-												<h3 class="text-uppercase">Hi-Fidelity </h3>
-												<p>( Wireframe )</p>
+												<h3 class="text-uppercase">REAL-TIME TRACKING</h3>
+												<p>( Status Updates & Support )</p>
 											</div>
 										</div>
 									</div>
@@ -109,11 +109,11 @@
 										<div class="counter-boxed d-flex align-items-center pera-content headline">
 											<div class="graph-outer position-relative">
 												<input type="text" class="dial" data-fgColor="#fe5151" data-bgColor="#e3e3eb" data-width="80" data-height="80" data-linecap="round"  value="90" >
-												<div class="inner-text count-box"><span class="count-text" data-stop="90" data-speed="4500"></span>%</div>
+												<div class="inner-text count-box"><span class="count-text" data-stop="99" data-speed="4500"></span>%</div>
 											</div>
 											<div class="bi-about-prog-text">
-												<h3 class="text-uppercase">Storyboard </h3>
-												<p>( Photoshop )</p>
+												<h3 class="text-uppercase">CUSTOMER SERVICE</h3>
+												<p>( 24/7 Dedicated Team )</p>
 											</div>
 										</div>
 									</div>
@@ -133,11 +133,11 @@
 		<div class="container">
 			<div class="bi-section-title-1 text-center headline pera-content">
 				<div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-					Welcome Creative Agency
+					WELCOME TO RELIABLE AUTO TRANSPORT
 				</div>
 				<h2 class="headline-title">
-					Increase Your Web 
-					Traffic with Our Experts
+					Ship Your Vehicle with Confidence
+					Backed by Our Experts
 				</h2>
 			</div>
 			<div class="bi-fun-fact-img-area">
@@ -161,21 +161,19 @@
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-counter-item position-relative headline pera-content d-flex align-items-center justify-content-between">
 							<h3><span class="counter">10</span>x</h3>
-							<p>Traffic
-							Multiplied</p>
+							<p>Faster Delivery</p>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-counter-item position-relative headline pera-content d-flex align-items-center justify-content-between">
 							<h3><span class="counter">40</span>k</h3>
-							<p>Website Building</p>
+							<p>Vehicles Shipped</p>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="bi-counter-item position-relative headline pera-content d-flex align-items-center justify-content-between">
 							<h3><span class="counter">3</span>k+</h3>
-							<p>Studios
-							To Update</p>
+							<p>5-Star Reviews</p>
 						</div>
 					</div>
 				</div>
@@ -183,11 +181,11 @@
 			<div class="bi-fun-fact-text-area">
 				<div class="bi-fun-fact-text pera-content text-center bins-text">
 					<p>
-						No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again. That’s us. We’re here to help you align, refine, design, and build.
+						No matter where you're shipping from or to, whether you're moving, buying, or selling a vehicle—we’ve got your back. Our proven, streamlined transport process ensures your vehicle gets where it needs to go, safely and on time.
 					</p>
 				</div>
 				<div class="bi-btn-1 d-flex justify-content-center bi-btn-area text-uppercase wow fadeInUp"  data-wow-delay="500ms" data-wow-duration="1000ms">
-					<a class="bi-btn-main  bi-btn-hover bi-btn-item" href="#">  <span></span> Get Services</a>
+					<a class="bi-btn-main  bi-btn-hover bi-btn-item" href="#">  <span></span> Get Quote</a>
 				</div>
 			</div>
 		</div>
@@ -203,45 +201,44 @@
 					<div class="bi-portfolio-tab-btn-text">
 						<div class="bi-section-title-1 headline pera-content">
 							<div class="bi-subtitle text-uppercase">
-								ideas come to life
+								WELCOME TO RELIABLE AUTO TRANSPORT
 							</div>
-							<h2 class="tx-split-text split-in-right">Work Starts 
-							Immediately</h2>
+							<h2 class="tx-split-text split-in-right">Transport Starts Immediately</h2>
 						</div>
 						<div class="bi-portfolio-tab-btn">
 							<ul class="nav nav-tabs" id="bi_portfolio_tab" role="tablist">
 								<li class="nav-item" role="presentation">
 									<div class="nav-link active" id="portfolio_tab_1" data-bs-toggle="tab" data-bs-target="#portfolio_1_1" type="button" role="tab"  aria-selected="false">
 										<div class="bi-portfolio-btn-text position-relative">
-											User Research
+											Instant Pickup Scheduling
 										</div>
 									</div>
 								</li>
 								<li class="nav-item" role="presentation">
 									<div class="nav-link" id="portfolio_tab_2" data-bs-toggle="tab" data-bs-target="#portfolio_1_2" type="button" role="tab"  aria-selected="false">
 										<div class="bi-portfolio-btn-text position-relative">
-											StoryBoard
+											Real-Time Tracking
 										</div>
 									</div>
 								</li>
 								<li class="nav-item" role="presentation">
 									<div class="nav-link" id="portfolio_tab_3" data-bs-toggle="tab" data-bs-target="#portfolio_1_3" type="button" role="tab"  aria-selected="false">
 										<div class="bi-portfolio-btn-text position-relative">
-											Wireframing
+											Fully Insured Service
 										</div>
 									</div>
 								</li>
 								<li class="nav-item" role="presentation">
 									<div class="nav-link" id="portfolio_tab_4" data-bs-toggle="tab" data-bs-target="#portfolio_1_4" type="button" role="tab"  aria-selected="false">
 										<div class="bi-portfolio-btn-text position-relative">
-											Usability Testing
+											On-Time Delivery Guarantee
 										</div>
 									</div>
 								</li>
 
 							</ul>
 						</div>
-						<div class="bi-portfolio-btn-img-area bi-img-animation">
+						{{-- <div class="bi-portfolio-btn-img-area bi-img-animation">
 							<div class="bi-portfolio-btn-img position-relative">
 								<img src="public/assets/img/portfolio/pro1.jpg" alt="">
 							</div>
@@ -257,7 +254,7 @@
 									<span>150</span><b>k+</b> Creators
 								</h3>
 							</div>
-						</div>
+						</div> --}}
 					</div>
 				</div>
 				<div class="col-lg-7">
@@ -474,11 +471,10 @@
 						<div class="bi-fun-fact-text-area-2">
 							<div class="bi-section-title-1 headline pera-content">
 								<div class="bi-subtitle text-uppercase">
-									ideas come to life
 								</div>
-								<h2 class="tx-split-text split-in-right">Building better 
-									<span class="b-strock-font">Works Lives, Better </span>
-								Organizations.</h2>
+								<h2 class="tx-split-text split-in-right">Delivering Peace 
+									<span class="b-strock-font">of Mind — One </span>
+									Vehicle at a Time</h2>
 							</div>
 							<div class="bi-btn-1  bi-btn-area text-uppercase">
 								<a class="bi-btn-main  bi-btn-hover bi-btn-item" href="#">  <span></span> Get Services</a>
@@ -492,25 +488,25 @@
 								<div class="col-md-6">
 									<div class="bi-counter-item-2 headline pera-content">
 										<h3><span class="counter">46</span>k</h3>
-										<p>(HTML, CSS, React)</p>
+										<p>Vehicles Delivered On Time</p>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="bi-counter-item-2 headline pera-content">
 										<h3><span class="counter">41</span>k</h3>
-										<p>Architecture (IA)</p>
+										<p>Satisfied Dealers & Clients</p>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="bi-counter-item-2 headline pera-content">
 										<h3><span class="counter">95</span>k</h3>
-										<p>Client took the program</p>
+										<p>Repeat Customer Rate</p>
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="bi-counter-item-2 headline pera-content">
 										<h3><span class="counter">85</span>k</h3>
-										<p>Usability Testing</p>
+										<p>Miles Covered Weekly</p>
 									</div>
 								</div>
 							</div>
