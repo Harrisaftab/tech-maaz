@@ -1061,7 +1061,7 @@
 </div>
 <!-- cta-end -->
 <!-- blog-start -->
-<div class="hpt-blog-2-area pt-120 pb-120">
+{{-- <div class="hpt-blog-2-area pt-120 pb-120">
     <img src="public/assets/img/new_home/bg-shape/blog-2-shape-1.png" alt="" class="blog-2-bg-shape-1">
     <div class="container h1-container">
         <div class="hpt-blog-2-top mb-50">
@@ -1177,13 +1177,13 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 <!-- blog-end -->          
 <div class="hpt-cta-3-area">
     <div class="container h1-container">
         <div class="hpt-cta-3-wrap bg-default" data-background="public/assets/img/new_home/cta/cta-3-bg-img-1.png"  >
             <div class="hpt-cta-3-content">
-                <h4 class="tittle reveal-type">Looking for a Design Parner?</h4>
+                <h4 class="tittle reveal-type">Looking for a Enclosed Transport?</h4>
                 <div class="btn-wrap">
                     <a class="hpt-btn-3">
                         learn more

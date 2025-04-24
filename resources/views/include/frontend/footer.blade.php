@@ -5,8 +5,7 @@
 			<div class="container">
 				<div class="bi-footer-cta-content headline d-flex align-items-center  justify-content-between flex-wrap" data-background="public/assets/img/bg/cta-bg.jpg">
 					<div class="bi-footer-cta-text"> 
-						<h3>Looking for a
-						Shipping?</h3>
+						<h3>Looking for a Open Transport?</h3>
 					</div>
 					<div class="bi-cta-btn">
 						<div class="bi-btn-1  bi-btn-area text-uppercase">
