@@ -205,7 +205,7 @@
             <div class="left">
                 <div class="hpt-about-2-img-wrap wow fadeInUp" >
                     <div class="about-2-img">
-                        <img src="public/assets/img/new_home/about/681x741.webp" alt="">
+                        <img src="public/assets/img/new_home/about/681x741.png" alt="">
                     </div>
                 </div>
             </div>
