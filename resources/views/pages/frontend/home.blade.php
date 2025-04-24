@@ -1034,7 +1034,7 @@
                 <!-- single-item -->
                 <div class="hpt-project-count-1-item ">
                     <h3 class="title" ><span class="counter">120</span>k+</h3>
-                    <span class="text" >Successful Project</span>
+                    <span class="text" >Miles Covered</span>
                 </div> 
 
                 <!-- single-item -->
@@ -1046,13 +1046,13 @@
                 <!-- single-item -->
                 <div class="hpt-project-count-1-item ">
                     <h3 class="title" ><span class="counter" >855</span>+</h3>
-                    <span class="text" >Happy Customers</span>
+                    <span class="text" >Successfull Deliveries</span>
                 </div> 
 
                 <!-- single-item -->
                 <div class="hpt-project-count-1-item ">
                     <h3 class="title" ><span class="counter">15</span></h3>
-                    <span class="text" >Awards Won</span>
+                    <span class="text" >Truck Owned</span>
                 </div> 
 
             </div>
