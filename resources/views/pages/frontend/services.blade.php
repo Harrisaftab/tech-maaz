@@ -28,7 +28,7 @@
 		<div class="container">
 			<div class="bi-section-title-1 text-center headline pera-content">
 				<div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-					Welcome to Velocity Transport
+					Services we offer
 				</div>
 				<h2 class="headline-title">
 					Driven by Reliability & Dedicated to Excellence
@@ -86,8 +86,8 @@
 								<i class="flaticon-4k"></i>
 							</div>
 							<div class="service-text headline pera-content">
-								<h3><a href="#">On-Demand Delivery</a></h3>
-								<p>Need it now? Our express and same-day delivery services ensure your packages get where they need to be—fast and secure.</p>
+								<h3><a href="#">On-Demand Pickup</a></h3>
+								<p>Need it now? Our express and same-day pickup services ensure that your car get where they need to be—fast and secure.</p>
 								<a class="read_more d-flex justify-content-center align-items-center text-uppercase" href="#"><i class="fas fa-long-arrow-right"></i></a>
 							</div>
 						</div>

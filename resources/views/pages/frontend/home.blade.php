@@ -1016,7 +1016,11 @@
                 <div class="icon">
                     <img src="public/assets/img/new_home/icon/phone-icon-2.svg" alt="">
                 </div>
-                <h4 class="number reveal-type">+1(862) 210-21739</h4>
+                <h4 class="number reveal-type">
+                    
+
+                    
+                </h4>
                 <p class="text reveal-type-2">We believe in four pillars of influence that drive our growth. This is ingrained in everything we do We use technology to create a better and smarter environment.</p>
                 <div class="btn-wrap wow fadeInUp">
                     <a class="hpt-btn-3">
