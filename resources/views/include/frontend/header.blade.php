@@ -8,7 +8,7 @@
             <div class="img">
                 <img src="public/assets/img/new_home/logo/logo-icon.png" alt="">
             </div>
-            <h6 class="name">Haptic Agency</h6>
+            <h6 class="name">State To State Auto Transport</h6>
         </div>
         <div class="h2-sidemenu-wrap">
             <div class="mobile_menu"></div>
@@ -40,15 +40,15 @@
             <div class="info-box-wrap">
                 <div class="info-box">
                     <h6 class="title"><i class="fas fa-phone-alt"></i>Phone</h6>
-                    <p>+1(862) 210-2173</p>
+                    <p>+1(862) 210-21739</p>
                 </div>
                 <div class="info-box">
                     <h6 class="title"><i class="fas fa-envelope"></i>Email</h6>
-                    <p>portfo@gmail.com</p>
+                    <p>support@statetotransport.com</p>
                 </div>
                 <div class="info-box">
                     <h6 class="title"><i class="fas fa-map-marker-alt"></i>Address</h6>
-                    <p>Hi50 main road <br> Ro 6A, Avenue 6, Japan</p>
+                    <p>310 Harrison Street <br> Boonton, NJ 07005, USA</p>
                 </div>
             </div>
         </div>
@@ -74,9 +74,12 @@
                             <li class="{{ request()->routeIs('services') ? 'active' : '' }}">
                                 <a href="{{ route('services') }}">Services</a>
                             </li>
-                            <li class="{{ request()->routeIs('blog') ? 'active' : '' }}">
-                                <a href="{{ route('blog') }}">Blog</a>
+                            <li class="{{ request()->routeIs('carQuote') ? 'active' : '' }}">
+                                <a href="{{ route('carQuote') }}">Get Quote</a>
                             </li>
+                            {{-- <li class="{{ request()->routeIs('blog') ? 'active' : '' }}">
+                                <a href="{{ route('blog') }}">Blog</a>
+                            </li> --}}
                             <li class="{{ request()->routeIs('contact') ? 'active' : '' }}">
                                 <a href="{{ route('contact') }}">Contact</a>
                             </li>
