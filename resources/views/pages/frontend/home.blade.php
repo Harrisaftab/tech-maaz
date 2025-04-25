@@ -1183,7 +1183,7 @@
     </div>
 </div> --}}
 <!-- blog-end -->          
-<div class="hpt-cta-3-area">
+{{-- <div class="hpt-cta-3-area">
     <div class="container h1-container">
         <div class="hpt-cta-3-wrap bg-default" data-background="public/assets/img/new_home/cta/cta-3-bg-img-1.png"  >
             <div class="hpt-cta-3-content">
@@ -1197,5 +1197,5 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 @endsection
