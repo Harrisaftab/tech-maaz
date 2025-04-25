@@ -62,14 +62,11 @@
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
 								<h3 class="widget-title">Contact Info</h3>
-								{{-- <ul>
-									<li><a href="#">Define Idea</a></li>
-									<li><a href="#">Target Audience</a></li>
-									<li><a href="#">Idea Validation</a></li>
-									<li><a href="#">Customer Value </a></li>
-									<li><a href="#">Build MVP Version</a></li>
-									<li><a href="#">Competitor Reserach</a></li>
-								</ul> --}}
+								<ul>
+									<li><a href="tel:+186221021739">+1 (862) 210-21739</a></li>
+									<li><a href="mailto:support@statetotransport.com">support@statetotransport.com</a></li>
+									<li><a href="https://www.google.com/maps?q=310+Harrison+Street+Boonton,+NJ+07005,+USA" target="_blank">310 Harrison Street Boonton, NJ 07005, USA</a></li>
+								</ul>
 							</div>
 						</div>
 					</div>
