@@ -26,7 +26,7 @@
 					Welcome Creative Agency
 				</div>
 				<h2 class="headline-title">
-					Latest From the Blog
+					Latest From the Road
 				</h2>
 			</div>
 			<div class="bi-blog-content">
