@@ -1004,13 +1004,13 @@
 <!-- cta-start -->
 <div class="hpt-cta-2-area fix">
     <div class="bg-img-1 fadeInLeft">
-        <img src="public/assets/img/new_home/cta/cta-2-img.png" alt="">
+        <img src="public/assets/img/new_home/cta/cta-2-img.webp" alt="">
     </div>
     <img src="public/assets/img/new_home/cta/cta-2-shape-1.png" alt="" class="bg-shape-1">
     <div class="container h1-container z-index-3">
         <div class="hpt-cta-2-wrap">
             <div class="hpt-cta-2-img">
-                <img src="public/assets/img/new_home/cta/cta-2-img-1.png" alt="">
+                <img src="public/assets/img/new_home/cta/cta-2-img-1.webp" alt="">
             </div>
             <div class="hpt-cta-2-content">
                 <div class="icon">
