@@ -33,31 +33,31 @@
 							<div class="menu-widget">
 								<h3 class="widget-title">Our Services</h3>
 								<ul>
-									<li><a href="#">Car Transport</a></li>
-									<li><a href="#">Boat Transport</a></li>
-									<li><a href="#">Golf Cart Transport</a></li>
-									<li><a href="#">Motorcycle Shipping</a></li>
-									<li><a href="#">RV Transport </a></li>
-									<li><a href="#">Heavy Equipment</a></li>
+									<li><a href="{{ url('/services#car-transport') }}">Car Transport</a></li>
+									<li><a href="{{ url('/services#boat-transport') }}">Boat Transport</a></li>
+									<li><a href="{{ url('/services#golf-cart') }}">Golf Cart Transport</a></li>
+									<li><a href="{{ url('/services#motorcycle-shipping') }}">Motorcycle Shipping</a></li>
+									<li><a href="{{ url('/services#rv-transport') }}">RV Transport</a></li>
+									<li><a href="{{ url('/services#heavy-equipment') }}">Heavy Equipment</a></li>
 								</ul>
 							</div>
 						</div>
-					</div>
+					</div>					
 					<div class="col-lg-3">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
 								<h3 class="widget-title">Useful Links</h3>
 								<ul>
-									<li><a href="#">About Us</a></li>
-									<li><a href="#">Blogs</a></li>
-									<li><a href="#">Contact Us</a></li>
-									<li><a href="#">FAQ!</a></li>
-									<li><a href="#">Terms & Conditions</a></li>
-									<li><a href="#">Privacy Policy</a></li>
+									<li><a href="{{ route('about') }}">About Us</a></li>
+									<li><a href="{{ route('blog') }}">Blogs</a></li>
+									<li><a href="{{ route('contact') }}">Contact Us</a></li>
+									<li><a href="{{ url('/faq') }}">FAQ</a></li>
+									<li><a href="{{ url('/terms-and-conditions') }}">Terms & Conditions</a></li>
+									<li><a href="{{ url('/privacy-policy') }}">Privacy Policy</a></li>
 								</ul>
 							</div>
 						</div>
-					</div>
+					</div>					
 					<div class="col-lg-2">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
