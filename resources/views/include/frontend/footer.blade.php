@@ -3,7 +3,7 @@
 	<footer id="bi-footer" class="bi-footer-section" data-background="public/assets/img/bg/footer-bg.jpg">
 		<div class="bi-footer-cta position-relative">
 			<div class="container">
-				<div class="bi-footer-cta-content headline d-flex align-items-center  justify-content-between flex-wrap" data-background="public/assets/img/bg/cta-bg.jpg">
+				<div class="bi-footer-cta-content headline d-flex align-items-center  justify-content-between flex-wrap" data-background="public/assets/img/bg/cta-bg.webp">
 					<div class="bi-footer-cta-text"> 
 						<h3>Looking for a Open Transport?</h3>
 					</div>
