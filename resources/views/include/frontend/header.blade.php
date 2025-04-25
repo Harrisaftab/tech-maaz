@@ -74,8 +74,8 @@
                             <li class="{{ request()->routeIs('services') ? 'active' : '' }}">
                                 <a href="{{ route('services') }}">Services</a>
                             </li>
-                            <li class="{{ request()->routeIs('carQuote') ? 'active' : '' }}">
-                                <a href="{{ route('carQuote') }}">Get Quote</a>
+                            <li class="{{ request()->routeIs('car.quote') ? 'active' : '' }}">
+                                <a href="{{ route('car.quote') }}">Get Quote</a>
                             </li>
                             {{-- <li class="{{ request()->routeIs('blog') ? 'active' : '' }}">
                                 <a href="{{ route('blog') }}">Blog</a>
