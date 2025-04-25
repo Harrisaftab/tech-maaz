@@ -28,11 +28,10 @@
 		<div class="container">
 			<div class="bi-section-title-1 text-center headline pera-content">
 				<div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-					Welcome Creative Agency
+					Welcome to Velocity Transport
 				</div>
 				<h2 class="headline-title">
-					Driven by Quality 
-					& Dedicated
+					Driven by Reliability & Dedicated to Excellence
 				</h2>
 			</div>
 			<div class="bi-service-feed-content">
@@ -45,8 +44,8 @@
 								<i class="flaticon-brand"></i>
 							</div>
 							<div class="service-text headline pera-content">
-								<h3><a href="#">Branding & Art</a></h3>
-								<p>No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back.</p>
+								<h3><a href="#">Freight & Logistics</a></h3>
+								<p>No matter how large your operation is, as you grow and reach new markets, you'll want a transport partner who delivers every time.</p>
 								<a class="read_more d-flex justify-content-center align-items-center text-uppercase" href="#"><i class="fas fa-long-arrow-right"></i></a>
 							</div>
 						</div>
@@ -59,8 +58,8 @@
 								<i class="flaticon-laptop"></i>
 							</div>
 							<div class="service-text headline pera-content">
-								<h3><a href="#">Digital Marketing</a></h3>
-								<p>No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back.</p>
+								<h3><a href="#">Urban & Intercity Transit</a></h3>
+								<p>From daily commutes to intercity travel, our solutions scale with your needs and keep people moving efficiently.</p>
 								<a class="read_more d-flex justify-content-center align-items-center text-uppercase" href="#"><i class="fas fa-long-arrow-right"></i></a>
 							</div>
 						</div>
@@ -73,8 +72,8 @@
 								<i class="flaticon-coding"></i>
 							</div>
 							<div class="service-text headline pera-content">
-								<h3><a href="#">Web Development</a></h3>
-								<p>No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back.</p>
+								<h3><a href="#">Fleet Management</a></h3>
+								<p>We provide advanced tools and services to help you manage your fleet, reduce downtime, and boost productivity.</p>
 								<a class="read_more d-flex justify-content-center align-items-center text-uppercase" href="#"><i class="fas fa-long-arrow-right"></i></a>
 							</div>
 						</div>
@@ -87,8 +86,8 @@
 								<i class="flaticon-4k"></i>
 							</div>
 							<div class="service-text headline pera-content">
-								<h3><a href="#">Design & Development</a></h3>
-								<p>No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back.</p>
+								<h3><a href="#">On-Demand Delivery</a></h3>
+								<p>Need it now? Our express and same-day delivery services ensure your packages get where they need to be—fast and secure.</p>
 								<a class="read_more d-flex justify-content-center align-items-center text-uppercase" href="#"><i class="fas fa-long-arrow-right"></i></a>
 							</div>
 						</div>
@@ -101,8 +100,8 @@
 								<i class="flaticon-surf"></i>
 							</div>
 							<div class="service-text headline pera-content">
-								<h3><a href="#">3D Animation</a></h3>
-								<p>No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back.</p>
+								<h3><a href="#">Heavy Cargo Transport</a></h3>
+								<p>We specialize in moving oversized and heavy cargo with precision and care, across regions or across the country.</p>
 								<a class="read_more d-flex justify-content-center align-items-center text-uppercase" href="#"><i class="fas fa-long-arrow-right"></i></a>
 							</div>
 						</div>
@@ -115,8 +114,8 @@
 								<i class="flaticon-design-thinking"></i>
 							</div>
 							<div class="service-text headline pera-content">
-								<h3><a href="#">Branding & Ilastration</a></h3>
-								<p>No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back.</p>
+								<h3><a href="#">Eco-Friendly Transit Solutions</a></h3>
+								<p>As the world moves toward sustainability, our green transport options help reduce your carbon footprint without compromising performance.</p>
 								<a class="read_more d-flex justify-content-center align-items-center text-uppercase" href="#"><i class="fas fa-long-arrow-right"></i></a>
 							</div>
 						</div>
@@ -137,38 +136,37 @@
 					<div class="bi-portfolio-tab-btn-text">
 						<div class="bi-section-title-1 headline pera-content">
 							<div class="bi-subtitle text-uppercase">
-								ideas come to life
+								Moving Ideas Forward
 							</div>
-							<h2 class="tx-split-text split-in-right">Work Starts 
-							Immediately</h2>
+							<h2 class="tx-split-text split-in-right">Service Starts Immediately</h2>
 						</div>
 						<div class="bi-portfolio-tab-btn">
 							<ul class="nav nav-tabs" id="bi_portfolio_tab" role="tablist">
 								<li class="nav-item" role="presentation">
 									<div class="nav-link active" id="portfolio_tab_1" data-bs-toggle="tab" data-bs-target="#portfolio_1_1" type="button" role="tab"  aria-selected="false">
 										<div class="bi-portfolio-btn-text position-relative">
-											User Research
+											Route Planning
 										</div>
 									</div>
 								</li>
 								<li class="nav-item" role="presentation">
 									<div class="nav-link" id="portfolio_tab_2" data-bs-toggle="tab" data-bs-target="#portfolio_1_2" type="button" role="tab"  aria-selected="false">
 										<div class="bi-portfolio-btn-text position-relative">
-											StoryBoard
+											Cargo Security
 										</div>
 									</div>
 								</li>
 								<li class="nav-item" role="presentation">
 									<div class="nav-link" id="portfolio_tab_3" data-bs-toggle="tab" data-bs-target="#portfolio_1_3" type="button" role="tab"  aria-selected="false">
 										<div class="bi-portfolio-btn-text position-relative">
-											Wireframing
+											Vehicle Tracking
 										</div>
 									</div>
 								</li>
 								<li class="nav-item" role="presentation">
 									<div class="nav-link" id="portfolio_tab_4" data-bs-toggle="tab" data-bs-target="#portfolio_1_4" type="button" role="tab"  aria-selected="false">
 										<div class="bi-portfolio-btn-text position-relative">
-											Usability Testing
+											Customer Support
 										</div>
 									</div>
 								</li>
@@ -188,7 +186,7 @@
 									<li><img src="public/assets/img/portfolio/test-5.jpg" alt=""></li>
 								</ul>
 								<h3>Joined Our Community
-									<span>150</span><b>k+</b> Creators
+									Trusted by<span>150</span><b>k+</b> Partners & Clients
 								</h3>
 							</div>
 						</div>
@@ -358,23 +356,23 @@
 				<div class="bi-faq-content-area">
 					<div class="bi-section-title-1 headline pera-content">
 						<div class="bi-subtitle text-uppercase">
-							ideas come to life
+							Moving Ideas Forward
 						</div>
-						<h2 class="tx-split-text split-in-right">Diversity is  
-						Our Strengths</h2>
+						<h2 class="tx-split-text split-in-right">Diversity is
+							Our Drive</h2>
 					</div>
 					<div class="bi-faq-content">
 						<div class="accordion" id="accordionExample_31">
 							<div class="accordion-item wow fadeInUp"  data-wow-delay="200ms" data-wow-duration="1000ms">
 								<h2 class="accordion-header" id="heading10">
 									<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="true" aria-controls="collapse10">
-										<span>	What is Business ?</span>
+										<span>	What is Transportation?</span>
 									</button>
 								</h2>
 								<div id="collapse10" class="accordion-collapse collapse show" aria-labelledby="heading10" data-bs-parent="#accordionExample_31">
 									<div class="accordion-body ">
 										<div class="bi-faq-text">
-											Improve efficiency, provide a better customer experience with modern technolo services available around Improve efficiency, provide 
+											Improve logistics efficiency, ensure safer journeys, and deliver exceptional service with our modern transport solutions.
 										</div>
 									</div>
 								</div>
@@ -382,13 +380,13 @@
 							<div class="accordion-item wow fadeInUp"  data-wow-delay="300ms" data-wow-duration="1000ms">
 								<h2 class="accordion-header" id="heading12">
 									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-										<span>Nulla vitae est risus. Aenean aliquam dolor a massa</span>
+										<span>What kind of vehicles are available in your fleet?</span>
 									</button>
 								</h2>
 								<div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12" data-bs-parent="#accordionExample_31">
 									<div class="accordion-body ">
 										<div class="bi-faq-text">
-											Improve efficiency, provide a better customer experience with modern technolo services available around Improve efficiency, provide
+											From small vans and electric scooters to large freight trucks and heavy haulers, our diverse fleet is ready to meet any transport challenge.
 										</div>
 									</div>
 								</div>
@@ -396,14 +394,13 @@
 							<div class="accordion-item wow fadeInUp"  data-wow-delay="400ms" data-wow-duration="1000ms">
 								<h2 class="accordion-header" id="heading13">
 									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-										<span>Pellentesque habitant morbi 
-										tristique senectus ?</span>
+										<span>How do your logistics services improve delivery timelines?</span>
 									</button>
 								</h2>
 								<div id="collapse13" class="accordion-collapse collapse" aria-labelledby="heading13" data-bs-parent="#accordionExample_31">
 									<div class="accordion-body ">
 										<div class="bi-faq-text">
-											Improve efficiency, provide a better customer experience with modern technolo services available around Improve efficiency, provide
+											Our smart routing systems and real-time tracking help optimize every delivery, reducing delays and increasing efficiency across the board.
 										</div>
 									</div>
 								</div>
