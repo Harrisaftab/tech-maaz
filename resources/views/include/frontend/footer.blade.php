@@ -21,10 +21,9 @@
 					<div class="col-lg-5">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="about-widget">
-								<h3>Working Together
-								Ideas come to life</h3>
+								<h3>Driving Progress Together</h3>
 								<p>
-									No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process
+									No matter how far your journey goes, as your business grows and expands, you’ll want a transport partner that’s in it for the long haul—one with a proven process that keeps things moving.
 								</p>
 							</div>
 						</div>
