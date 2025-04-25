@@ -43,10 +43,10 @@
 									<a href="#"><i class="fal fa-calendar-alt"></i> October 6, 2023</a>
 								</div>
 								<div class="bi-blog-text">
-									<h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
+									<h3 class="tx-split-text split-in-right"><a href="#">Why Trusted Carriers Matter in Auto Transport</a></h3>
 									<div class="bins-text">
 										<p>
-											No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again. 
+											Whether you're moving across the state or shipping nationwide, having a dependable logistics partner ensures your vehicle arrives safely and on time. Our team breaks down what to look for in a reliable carrier. 
 										</p>
 									</div>
 									<div class="bi-btn-1  bi-btn-area text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
@@ -65,10 +65,10 @@
 									<a href="#"><i class="fal fa-calendar-alt"></i> October 6, 2023</a>
 								</div>
 								<div class="bi-blog-text">
-									<h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
+									<h3 class="tx-split-text split-in-right"><a href="#">Behind the Wheel: A Day in the Life of a Dispatch Team</a></h3>
 									<div class="bins-text">
 										<p>
-											No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again. 
+											Meet the unsung heroes behind our operations—dispatchers who juggle schedules, solve problems, and keep things moving 24/7.
 										</p>
 									</div>
 									<div class="bi-btn-1  bi-btn-area text-uppercase wow fadeInRight"  data-wow-delay="300ms" data-wow-duration="1000ms">
@@ -97,10 +97,10 @@
 									<a href="#"><i class="fal fa-calendar-alt"></i> October 6, 2023</a>
 								</div>
 								<div class="bi-blog-text">
-									<h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
+									<h3 class="tx-split-text split-in-right"><a href="#">Preparing Your Vehicle for Transport: 5 Pro Tips</a></h3>
 									<div class="bins-text">
 										<p>
-											No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again. 
+											Before we pick up your car, here’s what you should do to make the process seamless—everything from fuel levels to photo documentation.
 										</p>
 									</div>
 									<div class="bi-btn-1  bi-btn-area text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
@@ -119,10 +119,10 @@
 									<a href="#"><i class="fal fa-calendar-alt"></i> October 6, 2023</a>
 								</div>
 								<div class="bi-blog-text">
-									<h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
+									<h3 class="tx-split-text split-in-right"><a href="#">What Impacts Auto Shipping Prices?</a></h3>
 									<div class="bins-text">
 										<p>
-											No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again. 
+											From fuel surcharges to seasonal demand, our experts explain the key factors that influence transport pricing—and how to save. 
 										</p>
 									</div>
 									<div class="bi-btn-1  bi-btn-area text-uppercase wow fadeInRight"  data-wow-delay="300ms" data-wow-duration="1000ms">
@@ -151,10 +151,10 @@
 									<a href="#"><i class="fal fa-calendar-alt"></i> October 6, 2023</a>
 								</div>
 								<div class="bi-blog-text">
-									<h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
+									<h3 class="tx-split-text split-in-right"><a href="#">Why We’re Going Green: The Future of Eco-Friendly Transport</a></h3>
 									<div class="bins-text">
 										<p>
-											No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again. 
+											Sustainability isn’t just a trend—it’s a necessity. Learn how our fleet is adapting with electric vehicles, route optimization, and more. 
 										</p>
 									</div>
 									<div class="bi-btn-1  bi-btn-area text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
@@ -173,10 +173,10 @@
 									<a href="#"><i class="fal fa-calendar-alt"></i> October 6, 2023</a>
 								</div>
 								<div class="bi-blog-text">
-									<h3 class="tx-split-text split-in-right"><a href="#">Working Together, ideas Come to Life</a></h3>
+									<h3 class="tx-split-text split-in-right"><a href="#">Client Spotlight: Moving Coast to Coast with Confidence</a></h3>
 									<div class="bins-text">
 										<p>
-											No matter how big your company is, as you expand and reach new highs you’ll want an agency to have your back. One with a process that has proven itself over and over again. 
+											Hear from one of our clients who trusted us to transport their luxury vehicle from California to New York—damage-free and ahead of schedule.
 										</p>
 									</div>
 									<div class="bi-btn-1  bi-btn-area text-uppercase wow fadeInRight"  data-wow-delay="300ms" data-wow-duration="1000ms">
