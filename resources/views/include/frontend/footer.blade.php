@@ -32,14 +32,14 @@
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
 								<h3 class="widget-title">Our Services</h3>
-								{{-- <ul>
-									<li><a href="#">Estimation</a></li>
-									<li><a href="#">Research</a></li>
-									<li><a href="#">Storyboard</a></li>
-									<li><a href="#">User Flow</a></li>
-									<li><a href="#">Information </a></li>
-									<li><a href="#">Storyboard (IA)</a></li>
-								</ul> --}}
+								<ul>
+									<li><a href="#">Car Transport</a></li>
+									<li><a href="#">Boat Transport</a></li>
+									<li><a href="#">Golf Cart Transport</a></li>
+									<li><a href="#">Motorcycle Shipping</a></li>
+									<li><a href="#">RV Transport </a></li>
+									<li><a href="#">Heavy Equipment</a></li>
+								</ul>
 							</div>
 						</div>
 					</div>
@@ -47,13 +47,14 @@
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
 								<h3 class="widget-title">Useful Links</h3>
-								{{-- <ul>
-									<li><a href="#">Front End (HTML, CSS, React)</a></li>
-									<li><a href="#">Backend (Node.js, MongoDB)</a></li>
-									<li><a href="#">iOS (Swift)</a></li>
-									<li><a href="#">Android (Kotlin, Flutter)</a></li>
-									<li><a href="#">Post Delivery Support</a></li>
-								</ul> --}}
+								<ul>
+									<li><a href="#">About Us</a></li>
+									<li><a href="#">Blogs</a></li>
+									<li><a href="#">Contact Us</a></li>
+									<li><a href="#">FAQ!</a></li>
+									<li><a href="#">Terms & Conditions</a></li>
+									<li><a href="#">Privacy Policy</a></li>
+								</ul>
 							</div>
 						</div>
 					</div>
