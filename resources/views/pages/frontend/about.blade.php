@@ -185,7 +185,7 @@
 					</p>
 				</div>
 				<div class="bi-btn-1 d-flex justify-content-center bi-btn-area text-uppercase wow fadeInUp"  data-wow-delay="500ms" data-wow-duration="1000ms">
-					<a class="bi-btn-main  bi-btn-hover bi-btn-item" href="#">  <span></span> Get Quote</a>
+					<a class="bi-btn-main  bi-btn-hover bi-btn-item" href="{{ route('car.quote') }}">  <span></span> Get Quote</a>
 				</div>
 			</div>
 		</div>

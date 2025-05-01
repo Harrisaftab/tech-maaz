@@ -34,7 +34,7 @@
                                     </a>
 
                                     <div class="hero-2-play-btn-wrap">
-                                        <a class="play-btn-3 popup-video" href="https://www.youtube.com/watch?v=wcciNQ4TyqQ">
+                                        <a class="play-btn-3 popup-video" href="#">
                                             <i class="fas fa-play"></i>
                                         </a>
                                         <span class="play-btn-text">Watch Video</span>
@@ -87,7 +87,7 @@
                                     </a>
 
                                     <div class="hero-2-play-btn-wrap">
-                                        <a class="play-btn-3 popup-video" href="https://www.youtube.com/watch?v=wcciNQ4TyqQ">
+                                        <a class="play-btn-3 popup-video" href="#">
                                             <i class="fas fa-play"></i>
                                         </a>
                                         <span class="play-btn-text">Watch Video</span>
@@ -140,7 +140,7 @@
                                     </a>
 
                                     <div class="hero-2-play-btn-wrap">
-                                        <a class="play-btn-3 popup-video" href="https://www.youtube.com/watch?v=wcciNQ4TyqQ">
+                                        <a class="play-btn-3 popup-video" href="#">
                                             <i class="fas fa-play"></i>
                                         </a>
                                         <span class="play-btn-text">Watch Video</span>
@@ -266,7 +266,7 @@
                             <span class="icon"><i class="fal fa-chevron-double-right"></i></span>
                         </a>
                         <div class="play-btn-wrap">
-                            <a class="play-btn-4 popup-video" href="https://www.youtube.com/watch?v=wcciNQ4TyqQ">
+                            <a class="play-btn-4 popup-video" href="#">
                                 <i class="fas fa-play"></i>
                             </a>
                             <div class="play-content">
