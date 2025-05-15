@@ -6,7 +6,7 @@
         </div>
         <div class="sidemenu-profile mb-30 is_show">
             <div class="img">
-                <img src="public/assets/img/new_home/logo/logo-icon.png" alt="">
+                <img src="public/assets/img/new_home/logo/1.png" alt="">
             </div>
             <h6 class="name">State To State Auto Transport</h6>
         </div>
