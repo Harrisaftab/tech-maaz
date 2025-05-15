@@ -176,7 +176,7 @@
             <img src="public/assets/img/new_home/icon/back-to-top-icon.png" alt="">
         </a>
     </div>
-    <div class="hpt-hero-2-social-postion">
+    {{-- <div class="hpt-hero-2-social-postion">
         <ul class="hpt-hero-2-social">
             <li class="text">SOCIAL MEDIA</li>
             <li>
@@ -192,7 +192,7 @@
                 <a href="#"><i class="fab fa-pinterest"></i></a>
             </li>
         </ul>
-    </div>
+    </div> --}}
 </div>
 <!-- hero-end -->
 <!-- about-start -->
