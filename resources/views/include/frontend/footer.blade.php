@@ -77,12 +77,12 @@
 			<div class="container">
 				<div class="bi-footer-social-content ul-li">
 					<ul>
-						<li><a href="#"><i class="fal fa-basketball-ball"></i> Dribbble </a></li>
+						{{-- <li><a href="#"><i class="fal fa-basketball-ball"></i> Dribbble </a></li>
 						<li><a href="#"><i class="fab fa-behance-square"></i>  Behance  </a></li>
 						<li><a href="#"><i class="fab fa-linkedin-in"></i> Linked In    </a></li>
 						<li><a href="#"><i class="fab fa-facebook-f"></i> Facebook  </a></li>
 						<li><a href="#"><i class="fab fa-instagram"></i> Instagram  </a></li>
-						<li><a href="#"><i class="fab fa-youtube"></i> Youtube </a></li>
+						<li><a href="#"><i class="fab fa-youtube"></i> Youtube </a></li> --}}
 					</ul>
 				</div>
 			</div>

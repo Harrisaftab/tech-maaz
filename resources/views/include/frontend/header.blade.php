@@ -19,7 +19,7 @@
             </div>
         </div>
         <div class="sidemenu-social-link mb-30 is_show">
-            <h6 class="title">connect Social</h6>
+            {{-- <h6 class="title">connect Social</h6>
             <ul>
                 <li>
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -33,7 +33,7 @@
                 <li>
                     <a href="#"><i class="fab fa-linkedin-in"></i></a>
                 </li>
-            </ul>
+            </ul> --}}
         </div>
         <div class="sidemenu-contact-info is_show">
             <h6 class="title">Contact Information</h6>
