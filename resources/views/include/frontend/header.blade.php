@@ -85,6 +85,13 @@
                             </li>
                         </ul>
                     </nav>
+                    <!-- header-action -->
+                    <div class="hpt-header-2-action">
+                        <!-- mobile-menu-button -->
+                        <button class="hpt-menu-btn-2 menu_toggle_1">
+                            <i class="fal fa-bars"></i>
+                        </button>
+                    </div>
                 </div>
             </div>
         </div>
